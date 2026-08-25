@@ -1,0 +1,1396 @@
+tweet_id,text,airline_sentiment,airline
+1010,Really impressed with @Delta customer service this week,positive,Delta
+1913,Paid extra for @Southwest and still got squished in a tiny seat !!,negative,Southwest
+2329,"oh great, @Delta delayed AGAIN, love spending my life in this airport",negative,Delta
+1604,"@Delta lost my luggage again, worst airline ever #travel",negative,Delta
+1447,Paid extra for @Southwest and still got squished in a tiny seat,negative,Southwest
+1980,@Southwest flight 245 departs at 9am from gate B12,neutral,Southwest
+1401,"shoutout to @JetBlue for the free upgrade, made my day !!",positive,JetBlue
+2116,@United just announced new routes to the Midwest this fall #travel,neutral,United
+1521,"Sitting on the tarmac for 3 hours with @Delta, this is ridiculous !!",negative,Delta
+1692,@Southwest left my bag behind and won't answer the phone,negative,Southwest
+1234,Just landed with @JetBlue and the crew was amazing! Best flight ever #travel,positive,JetBlue
+1096,"@JetBlue made my trip so easy, appreciate the effort",positive,JetBlue
+1818,"@Southwest lost my luggage again, worst airline ever #travel",negative,Southwest
+1918,"Sitting on the tarmac for 3 hours with @American, this is ridiculous #travel",positive,American
+1128,"Kudos to @Delta staff, so friendly and helpful during my trip !!",positive,Delta
+1833,"@American delayed us 6 hours and gave zero updates, terrible #travel",positive,American
+1004,"@American upgraded me for free, what a great surprise, flying again soon",positive,American
+2114,"@Delta website was down earlier, back up now I think #travel",negative,Delta
+1082,@United flight attendants went above and beyond today !!,positive,United
+2296,"oh great, @Southwest delayed AGAIN, love spending my life in this airport 😊",negative,Southwest
+2115,"Landed with @Delta, on time as scheduled",neutral,Delta
+1653,"@US Airways charged hidden fees I never agreed to, so frustrated #travel",negative,US Airways
+1340,"shoutout to @US Airways for the free upgrade, made my day !!",positive,US Airways
+2371,"@Southwest flight, some good some bad, about what I expected honestly #travel",neutral,Southwest
+1876,Paid extra for @American and still got squished in a tiny seat #travel,negative,American
+1233,Just landed with @Delta and the crew was amazing! Best flight ever !!,positive,Delta
+1541,My @American flight was overbooked and they bumped me without warning,negative,American
+2091,@JetBlue sent me a confirmation email for tomorrow's flight,neutral,JetBlue
+1967,@Southwest plane just pushed back from the gate,neutral,Southwest
+1150,Loved the legroom and service on my @United flight today 😊,positive,United
+2039,"Landed with @JetBlue, on time as scheduled 😊",neutral,JetBlue
+1908,"@US Airways lost my luggage again, worst airline ever #travel",negative,US Airways
+2281,wow @JetBlue really outdid themselves this time... 4 hours late and counting,negative,JetBlue
+1741,Paid extra for @Southwest and still got squished in a tiny seat !!,negative,Southwest
+1287,"honestly @Delta did a great job today, no complaints at all",positive,Delta
+1435,"worst experience with @US Airways, missed my connection because of them 😊",negative,US Airways
+2127,Looking at @American fares for a trip next month #travel,neutral,American
+1809,@US Airways customer service put me on hold for 2 hours,negative,US Airways
+2187,"@US Airways website was down earlier, back up now I think",neutral,US Airways
+1088,Huge thanks to @US Airways for the smooth check-in and on-time departure,positive,US Airways
+1417,Really impressed with @US Airways customer service this week #travel,positive,US Airways
+1893,Paid extra for @Delta and still got squished in a tiny seat 😊,negative,Delta
+1223,"Kudos to @US Airways staff, so friendly and helpful during my trip",positive,US Airways
+1553,Paid extra for @Southwest and still got squished in a tiny seat #travel,negative,Southwest
+1695,"@United charged hidden fees I never agreed to, so frustrated",negative,United
+1983,anyone else flying @American out of gate 22 today,neutral,American
+1628,My @United flight was overbooked and they bumped me without warning 😊,negative,United
+2284,"oh great, @JetBlue delayed AGAIN, love spending my life in this airport",negative,JetBlue
+1416,"Kudos to @Delta staff, so friendly and helpful during my trip #travel",positive,Delta
+1612,"@Delta delayed us 6 hours and gave zero updates, terrible !!",negative,Delta
+1558,"@JetBlue lost my luggage again, worst airline ever !!",negative,JetBlue
+1829,"Sitting on the tarmac for 3 hours with @United, this is ridiculous",negative,United
+1229,@Delta flight attendants went above and beyond today #travel,positive,Delta
+2351,"flight was delayed but @JetBlue crew apologized and gave snacks, decent recovery #travel",positive,JetBlue
+1041,"@United handled my delay well, free snacks and great communication #travel",positive,United
+1921,@Southwest sent me a confirmation email for tomorrow's flight,neutral,Southwest
+1420,Paid extra for @American and still got squished in a tiny seat,negative,American
+1804,"worst experience with @United, missed my connection because of them",negative,United
+2017,Looking at @JetBlue fares for a trip next month,neutral,JetBlue
+1871,My @United flight was overbooked and they bumped me without warning,negative,United
+1031,Huge thanks to @JetBlue for the smooth check-in and on-time departure !!,positive,JetBlue
+1527,@Delta left my bag behind and won't answer the phone !!,negative,Delta
+1470,Paid extra for @United and still got squished in a tiny seat,negative,United
+2097,"@Southwest website was down earlier, back up now I think !!",neutral,Southwest
+1306,Loved the legroom and service on my @United flight today,positive,United
+2216,@JetBlue plane just pushed back from the gate,neutral,JetBlue
+1293,"honestly @United did a great job today, no complaints at all",positive,United
+1756,"@US Airways crew was so rude to an elderly passenger, unacceptable",negative,US Airways
+2037,@Southwest sent me a confirmation email for tomorrow's flight,neutral,Southwest
+2208,"Checked in for my @American flight, boarding starts at noon #travel",neutral,American
+1819,@US Airways customer service put me on hold for 2 hours,negative,US Airways
+1526,"@United cancelled my flight with no notice, absolutely furious !!",negative,United
+1865,Never flying @JetBlue again after how they treated my family today,negative,JetBlue
+1217,Really impressed with @Delta customer service this week #travel,positive,Delta
+2221,"@US Airways flight was pretty average, nothing special either way",neutral,US Airways
+1224,"honestly @United did a great job today, no complaints at all #travel",positive,United
+2147,"@JetBlue website was down earlier, back up now I think !!",neutral,JetBlue
+2186,"@JetBlue website was down earlier, back up now I think",neutral,JetBlue
+2074,@JetBlue flight 245 departs at 9am from gate B12,neutral,JetBlue
+1690,"Rude staff at @United check-in counter, never flying them again #travel",negative,United
+1569,Never flying @United again after how they treated my family today,negative,United
+1504,"@United crew was so rude to an elderly passenger, unacceptable #travel",negative,United
+1201,Huge thanks to @Delta for the smooth check-in and on-time departure,positive,Delta
+1104,"shoutout to @American for the free upgrade, made my day",positive,American
+1048,Smooth landing comfy seats on time @Southwest nailed it again,positive,Southwest
+1937,"@American flight was pretty average, nothing special either way !!",neutral,American
+2200,"Landed with @Delta, on time as scheduled",neutral,Delta
+1801,"Sitting on the tarmac for 3 hours with @JetBlue, this is ridiculous #travel",negative,JetBlue
+1075,"@US Airways upgraded me for free, what a great surprise, flying again soon !!",positive,US Airways
+2068,"@American website was down earlier, back up now I think",neutral,American
+1698,Paid extra for @Delta and still got squished in a tiny seat 😊,negative,Delta
+2211,"@United website was down earlier, back up now I think",neutral,United
+2049,Question for @Southwest can I change my seat assignment online,neutral,Southwest
+1816,"@US Airways lost my luggage again, worst airline ever #travel",negative,US Airways
+1624,"Rude staff at @JetBlue check-in counter, never flying them again",negative,JetBlue
+2366,"not the smoothest trip but @US Airways staff tried their best, appreciate it",positive,US Airways
+1782,@JetBlue left my bag behind and won't answer the phone,negative,JetBlue
+1131,Loved the legroom and service on my @US Airways flight today #travel,positive,US Airways
+1534,Paid extra for @US Airways and still got squished in a tiny seat #travel,positive,US Airways
+2044,"Checked in for my @US Airways flight, boarding starts at noon #travel",neutral,US Airways
+1329,"@JetBlue upgraded me for free, what a great surprise, flying again soon",positive,JetBlue
+1658,"worst experience with @Delta, missed my connection because of them",negative,Delta
+1595,"@Delta delayed us 6 hours and gave zero updates, terrible",negative,Delta
+1842,Paid extra for @United and still got squished in a tiny seat #travel,negative,United
+1948,Does anyone know the baggage policy for @Delta flights !!,neutral,Delta
+2108,"Checked in for my @JetBlue flight, boarding starts at noon",neutral,JetBlue
+1576,"@Southwest charged hidden fees I never agreed to, so frustrated #travel",negative,Southwest
+2140,@Delta just announced new routes to the Midwest this fall,neutral,Delta
+1127,"Kudos to @JetBlue staff, so friendly and helpful during my trip",positive,JetBlue
+1936,Flying @Southwest tomorrow morning to Chicago for a work trip 😊,neutral,Southwest
+1376,@Delta flight attendants went above and beyond today,negative,Delta
+1260,"honestly @JetBlue did a great job today, no complaints at all",negative,JetBlue
+2047,"Checked in for my @United flight, boarding starts at noon #travel",neutral,United
+1117,Huge thanks to @JetBlue for the smooth check-in and on-time departure !!,positive,JetBlue
+2195,"Checked in for my @US Airways flight, boarding starts at noon",neutral,US Airways
+1787,Paid extra for @American and still got squished in a tiny seat !!,negative,American
+1602,My @JetBlue flight was overbooked and they bumped me without warning,negative,JetBlue
+2132,Looking at @US Airways fares for a trip next month,neutral,US Airways
+1540,Never flying @Delta again after how they treated my family today,neutral,Delta
+1112,"honestly @Delta did a great job today, no complaints at all !!",positive,Delta
+1731,"@United delayed us 6 hours and gave zero updates, terrible",negative,United
+1560,"@US Airways delayed us 6 hours and gave zero updates, terrible !!",negative,US Airways
+2035,"Checked in for my @United flight, boarding starts at noon",neutral,United
+2394,"@US Airways flight, some good some bad, about what I expected honestly 😊",neutral,US Airways
+2350,"not the smoothest trip but @Delta staff tried their best, appreciate it !!",positive,Delta
+1766,"worst experience with @United, missed my connection because of them #travel",negative,United
+1049,Huge thanks to @American for the smooth check-in and on-time departure !!,positive,American
+1074,Loved the legroom and service on my @United flight today,positive,United
+1820,"@US Airways crew was so rude to an elderly passenger, unacceptable",negative,US Airways
+2164,@JetBlue plane just pushed back from the gate,neutral,JetBlue
+1525,Never flying @US Airways again after how they treated my family today !!,negative,US Airways
+2134,"@United flight was pretty average, nothing special either way",neutral,United
+1035,Best airline experience in years thank you @Delta team,positive,Delta
+1478,Paid extra for @US Airways and still got squished in a tiny seat #travel,negative,US Airways
+1285,"@American upgraded me for free, what a great surprise, flying again soon #travel",positive,American
+1767,My @Delta flight was overbooked and they bumped me without warning !!,negative,Delta
+2217,@United just announced new routes to the Midwest this fall,neutral,United
+1186,"@Delta handled my delay well, free snacks and great communication",positive,Delta
+1475,Paid extra for @United and still got squished in a tiny seat !!,negative,United
+1215,Really impressed with @JetBlue customer service this week,positive,JetBlue
+2321,wow @JetBlue really outdid themselves this time... 4 hours late and counting,negative,JetBlue
+2268,@JetBlue flight 245 departs at 9am from gate B12 !!,positive,JetBlue
+1784,My @Delta flight was overbooked and they bumped me without warning #travel,negative,Delta
+1448,@United customer service put me on hold for 2 hours,negative,United
+2004,"@JetBlue flight was pretty average, nothing special either way",neutral,JetBlue
+1220,"@American upgraded me for free, what a great surprise, flying again soon",positive,American
+1915,"@Southwest delayed us 6 hours and gave zero updates, terrible",negative,Southwest
+1828,"@Southwest crew was so rude to an elderly passenger, unacceptable",negative,Southwest
+2277,"thanks @United for losing my bag, exactly what I needed today !!",negative,United
+1479,@Southwest customer service put me on hold for 2 hours,negative,Southwest
+1546,"@Delta charged hidden fees I never agreed to, so frustrated",negative,Delta
+1375,"shoutout to @American for the free upgrade, made my day",positive,American
+2374,"@United flight, some good some bad, about what I expected honestly !!",neutral,United
+1255,Smooth landing comfy seats on time @Southwest nailed it again,positive,Southwest
+1887,"@JetBlue crew was so rude to an elderly passenger, unacceptable",negative,JetBlue
+2026,@Delta just announced new routes to the Midwest this fall,neutral,Delta
+2315,wow @Southwest really outdid themselves this time... 4 hours late and counting 😊,negative,Southwest
+1455,"worst experience with @JetBlue, missed my connection because of them",negative,JetBlue
+2214,"@United flight was pretty average, nothing special either way #travel",neutral,United
+1727,"@United lost my luggage again, worst airline ever !!",negative,United
+2380,"@US Airways flight, some good some bad, about what I expected honestly #travel",neutral,US Airways
+2388,"@JetBlue flight, some good some bad, about what I expected honestly",neutral,JetBlue
+1458,"Sitting on the tarmac for 3 hours with @Southwest, this is ridiculous 😊",negative,Southwest
+2344,"not the smoothest trip but @Delta staff tried their best, appreciate it !!",positive,Delta
+2046,Does anyone know the baggage policy for @Southwest flights !!,neutral,Southwest
+2362,"not the smoothest trip but @Delta staff tried their best, appreciate it !!",positive,Delta
+2040,@JetBlue sent me a confirmation email for tomorrow's flight,neutral,JetBlue
+2082,Looking at @American fares for a trip next month,neutral,American
+1491,"@United lost my luggage again, worst airline ever",negative,United
+2331,"flight was delayed but @United crew apologized and gave snacks, decent recovery",positive,United
+1814,"Sitting on the tarmac for 3 hours with @US Airways, this is ridiculous 😊",negative,US Airways
+2167,@Delta sent me a confirmation email for tomorrow's flight,neutral,Delta
+1855,"@US Airways cancelled my flight with no notice, absolutely furious",negative,US Airways
+1399,Really impressed with @American customer service this week,positive,American
+1643,My @American flight was overbooked and they bumped me without warning #travel,negative,American
+1735,"@Southwest lost my luggage again, worst airline ever 😊",negative,Southwest
+2030,anyone else flying @Southwest out of gate 22 today !!,neutral,Southwest
+2299,"thanks @US Airways for losing my bag, exactly what I needed today",negative,US Airways
+1562,My @Delta flight was overbooked and they bumped me without warning #travel,negative,Delta
+1142,Smooth landing comfy seats on time @US Airways nailed it again !!,neutral,US Airways
+1906,"@JetBlue lost my luggage again, worst airline ever",negative,JetBlue
+2219,@American plane just pushed back from the gate,neutral,American
+1910,My @Delta flight was overbooked and they bumped me without warning,negative,Delta
+1674,My @Southwest flight was overbooked and they bumped me without warning #travel,negative,Southwest
+1415,Smooth landing comfy seats on time @JetBlue nailed it again #travel,positive,JetBlue
+1032,Smooth landing comfy seats on time @Southwest nailed it again !!,positive,Southwest
+1597,@American customer service put me on hold for 2 hours,negative,American
+1335,"@JetBlue handled my delay well, free snacks and great communication #travel",positive,JetBlue
+1992,@Southwest flight 245 departs at 9am from gate B12 !!,neutral,Southwest
+1271,@United flight attendants went above and beyond today #travel,positive,United
+1623,Never flying @United again after how they treated my family today !!,negative,United
+1118,"Kudos to @American staff, so friendly and helpful during my trip 😊",positive,American
+2183,"@Delta website was down earlier, back up now I think",neutral,Delta
+1953,@United flight 245 departs at 9am from gate B12 !!,neutral,United
+1378,Huge thanks to @JetBlue for the smooth check-in and on-time departure,positive,JetBlue
+2213,"@United website was down earlier, back up now I think",neutral,United
+1346,"@JetBlue made my trip so easy, appreciate the effort !!",positive,JetBlue
+1278,"@US Airways made my trip so easy, appreciate the effort",positive,US Airways
+2094,anyone else flying @American out of gate 22 today,neutral,American
+2241,"Checked in for my @Delta flight, boarding starts at noon #travel",neutral,Delta
+2307,wow @JetBlue really outdid themselves this time... 4 hours late and counting,negative,JetBlue
+2295,"oh great, @United delayed AGAIN, love spending my life in this airport",negative,United
+1302,"shoutout to @American for the free upgrade, made my day #travel",positive,American
+1244,Just landed with @JetBlue and the crew was amazing! Best flight ever !!,positive,JetBlue
+1046,"@Southwest upgraded me for free, what a great surprise, flying again soon",positive,Southwest
+2169,Question for @Southwest can I change my seat assignment online,neutral,Southwest
+1708,"@Southwest delayed us 6 hours and gave zero updates, terrible",negative,Southwest
+2021,Flying @Southwest tomorrow morning to Chicago for a work trip 😊,neutral,Southwest
+1989,"@Delta website was down earlier, back up now I think",neutral,Delta
+2259,@United just announced new routes to the Midwest this fall,neutral,United
+1333,"honestly @United did a great job today, no complaints at all",positive,United
+2160,@United plane just pushed back from the gate,neutral,United
+2361,"not the smoothest trip but @Southwest staff tried their best, appreciate it !!",positive,Southwest
+1221,Just landed with @American and the crew was amazing! Best flight ever !!,positive,American
+2178,Looking at @Southwest fares for a trip next month,neutral,Southwest
+1364,Smooth landing comfy seats on time @Southwest nailed it again !!,positive,Southwest
+1354,@US Airways flight attendants went above and beyond today,positive,US Airways
+1175,Really impressed with @Delta customer service this week,positive,Delta
+1240,Best airline experience in years thank you @Delta team #travel,positive,Delta
+2266,"Checked in for my @Southwest flight, boarding starts at noon !!",neutral,Southwest
+1880,"Sitting on the tarmac for 3 hours with @US Airways, this is ridiculous !!",negative,US Airways
+2234,"@Southwest flight was pretty average, nothing special either way",neutral,Southwest
+1178,Really impressed with @US Airways customer service this week !!,positive,US Airways
+1812,Paid extra for @American and still got squished in a tiny seat #travel,negative,American
+1835,@United customer service put me on hold for 2 hours,negative,United
+1300,"@Delta made my trip so easy, appreciate the effort #travel",positive,Delta
+2057,Does anyone know the baggage policy for @American flights,neutral,American
+1600,Never flying @Delta again after how they treated my family today #travel,negative,Delta
+1919,"@Southwest charged hidden fees I never agreed to, so frustrated #travel",negative,Southwest
+1885,"@American cancelled my flight with no notice, absolutely furious",negative,American
+2031,Flying @Delta tomorrow morning to Chicago for a work trip,neutral,Delta
+1020,@American flight attendants went above and beyond today !!,positive,American
+2118,Does anyone know the baggage policy for @United flights,neutral,United
+1681,Paid extra for @American and still got squished in a tiny seat !!,negative,American
+1381,Really impressed with @Southwest customer service this week,positive,Southwest
+1502,"Sitting on the tarmac for 3 hours with @American, this is ridiculous",negative,American
+1940,@Southwest sent me a confirmation email for tomorrow's flight #travel,neutral,Southwest
+1398,Huge thanks to @American for the smooth check-in and on-time departure,positive,American
+1965,@Southwest just announced new routes to the Midwest this fall #travel,neutral,Southwest
+1085,"@American handled my delay well, free snacks and great communication 😊",positive,American
+1821,"@Southwest charged hidden fees I never agreed to, so frustrated #travel",negative,Southwest
+1892,"Sitting on the tarmac for 3 hours with @Southwest, this is ridiculous #travel",negative,Southwest
+1348,Huge thanks to @Southwest for the smooth check-in and on-time departure,positive,Southwest
+2245,@United plane just pushed back from the gate !!,neutral,United
+1400,"shoutout to @American for the free upgrade, made my day",positive,American
+1176,"@Southwest made my trip so easy, appreciate the effort !!",positive,Southwest
+2092,"Landed with @Delta, on time as scheduled",neutral,Delta
+2391,"@US Airways flight, some good some bad, about what I expected honestly 😊",neutral,US Airways
+2038,Flying @US Airways tomorrow morning to Chicago for a work trip 😊,neutral,US Airways
+1228,Really impressed with @Delta customer service this week !!,positive,Delta
+1152,Best airline experience in years thank you @Southwest team,positive,Southwest
+1180,Smooth landing comfy seats on time @United nailed it again,positive,United
+1868,"@US Airways crew was so rude to an elderly passenger, unacceptable",positive,US Airways
+2131,anyone else flying @United out of gate 22 today !!,neutral,United
+1688,"@US Airways cancelled my flight with no notice, absolutely furious",negative,US Airways
+1303,Smooth landing comfy seats on time @JetBlue nailed it again,positive,JetBlue
+1027,"@Delta made my trip so easy, appreciate the effort !!",positive,Delta
+1196,"Kudos to @United staff, so friendly and helpful during my trip",positive,United
+1807,"Rude staff at @American check-in counter, never flying them again !!",negative,American
+1800,"@US Airways crew was so rude to an elderly passenger, unacceptable !!",negative,US Airways
+1493,@Delta customer service put me on hold for 2 hours,negative,Delta
+1802,Paid extra for @JetBlue and still got squished in a tiny seat,negative,JetBlue
+1725,"@United cancelled my flight with no notice, absolutely furious",negative,United
+1588,"worst experience with @JetBlue, missed my connection because of them",negative,JetBlue
+1884,"@US Airways charged hidden fees I never agreed to, so frustrated",negative,US Airways
+1359,Just landed with @US Airways and the crew was amazing! Best flight ever !!,positive,US Airways
+2054,@Southwest flight 245 departs at 9am from gate B12 #travel,neutral,Southwest
+1036,"@US Airways made my trip so easy, appreciate the effort !!",positive,US Airways
+1777,Never flying @Southwest again after how they treated my family today,negative,Southwest
+1125,"@American upgraded me for free, what a great surprise, flying again soon",positive,American
+1601,My @Delta flight was overbooked and they bumped me without warning !!,negative,Delta
+1072,Just landed with @United and the crew was amazing! Best flight ever !!,positive,United
+2372,"@Delta flight, some good some bad, about what I expected honestly",neutral,Delta
+1424,@American left my bag behind and won't answer the phone !!,negative,American
+1425,@United left my bag behind and won't answer the phone !!,negative,United
+1445,My @Delta flight was overbooked and they bumped me without warning,negative,Delta
+1794,"Rude staff at @American check-in counter, never flying them again !!",negative,American
+1903,"worst experience with @American, missed my connection because of them",negative,American
+1007,"shoutout to @United for the free upgrade, made my day",positive,United
+1722,"@Delta crew was so rude to an elderly passenger, unacceptable",negative,Delta
+1709,"@US Airways delayed us 6 hours and gave zero updates, terrible !!",positive,US Airways
+1988,@US Airways sent me a confirmation email for tomorrow's flight !!,neutral,US Airways
+1443,"Sitting on the tarmac for 3 hours with @JetBlue, this is ridiculous !!",negative,JetBlue
+1345,Loved the legroom and service on my @United flight today !!,positive,United
+1463,Paid extra for @JetBlue and still got squished in a tiny seat !!,negative,JetBlue
+1225,Really impressed with @US Airways customer service this week,positive,US Airways
+2325,"thanks @JetBlue for losing my bag, exactly what I needed today",negative,JetBlue
+2172,anyone else flying @US Airways out of gate 22 today,neutral,US Airways
+1716,"Sitting on the tarmac for 3 hours with @United, this is ridiculous",negative,United
+2242,"@American flight was pretty average, nothing special either way !!",negative,American
+1098,Just landed with @JetBlue and the crew was amazing! Best flight ever !!,positive,JetBlue
+1102,"shoutout to @Delta for the free upgrade, made my day",positive,Delta
+2247,@US Airways flight 245 departs at 9am from gate B12,neutral,US Airways
+1481,"@Delta crew was so rude to an elderly passenger, unacceptable",negative,Delta
+1297,"@US Airways upgraded me for free, what a great surprise, flying again soon",negative,US Airways
+1673,"Rude staff at @Southwest check-in counter, never flying them again #travel",negative,Southwest
+1966,Does anyone know the baggage policy for @American flights !!,neutral,American
+1522,"@Delta lost my luggage again, worst airline ever !!",negative,Delta
+1976,"@US Airways flight was pretty average, nothing special either way",neutral,US Airways
+1720,@Southwest customer service put me on hold for 2 hours !!,negative,Southwest
+1734,"@American lost my luggage again, worst airline ever #travel",negative,American
+1866,"Sitting on the tarmac for 3 hours with @Delta, this is ridiculous",negative,Delta
+1642,"@Southwest charged hidden fees I never agreed to, so frustrated",negative,Southwest
+1564,"@JetBlue delayed us 6 hours and gave zero updates, terrible",negative,JetBlue
+1861,"@United cancelled my flight with no notice, absolutely furious",negative,United
+1862,"@United crew was so rude to an elderly passenger, unacceptable #travel",negative,United
+1002,"@US Airways made my trip so easy, appreciate the effort",positive,US Airways
+1746,"@Delta crew was so rude to an elderly passenger, unacceptable",negative,Delta
+1267,Just landed with @Southwest and the crew was amazing! Best flight ever !!,positive,Southwest
+2081,@JetBlue plane just pushed back from the gate,neutral,JetBlue
+1383,"@Delta handled my delay well, free snacks and great communication 😊",positive,Delta
+1567,"@Southwest lost my luggage again, worst airline ever !!",negative,Southwest
+1105,Loved the legroom and service on my @United flight today #travel,positive,United
+2175,"@US Airways website was down earlier, back up now I think",negative,US Airways
+1831,My @Southwest flight was overbooked and they bumped me without warning 😊,negative,Southwest
+1519,"@American delayed us 6 hours and gave zero updates, terrible #travel",negative,American
+1899,"@American charged hidden fees I never agreed to, so frustrated",negative,American
+1680,"worst experience with @JetBlue, missed my connection because of them",negative,JetBlue
+1158,@American flight attendants went above and beyond today 😊,positive,American
+1336,Loved the legroom and service on my @United flight today !!,positive,United
+1718,"@Southwest crew was so rude to an elderly passenger, unacceptable #travel",negative,Southwest
+1592,"@United charged hidden fees I never agreed to, so frustrated",negative,United
+1997,"@United website was down earlier, back up now I think",neutral,United
+1078,"@JetBlue handled my delay well, free snacks and great communication",positive,JetBlue
+2015,Looking at @US Airways fares for a trip next month,neutral,US Airways
+1607,Never flying @American again after how they treated my family today,neutral,American
+2052,Question for @US Airways can I change my seat assignment online !!,neutral,US Airways
+1410,"shoutout to @Southwest for the free upgrade, made my day",positive,Southwest
+1651,Never flying @US Airways again after how they treated my family today !!,negative,US Airways
+1508,"@Delta charged hidden fees I never agreed to, so frustrated",negative,Delta
+1655,"@US Airways lost my luggage again, worst airline ever",negative,US Airways
+2263,@Southwest plane just pushed back from the gate,neutral,Southwest
+1191,"Kudos to @Delta staff, so friendly and helpful during my trip #travel",positive,Delta
+2340,"not the smoothest trip but @JetBlue staff tried their best, appreciate it #travel",positive,JetBlue
+2352,"not the smoothest trip but @American staff tried their best, appreciate it #travel",positive,American
+1338,Smooth landing comfy seats on time @Delta nailed it again,positive,Delta
+1484,Paid extra for @United and still got squished in a tiny seat #travel,negative,United
+1964,"Checked in for my @Delta flight, boarding starts at noon",neutral,Delta
+1154,"shoutout to @Southwest for the free upgrade, made my day",positive,Southwest
+1995,@Southwest flight 245 departs at 9am from gate B12,neutral,Southwest
+2236,"@US Airways flight was pretty average, nothing special either way !!",neutral,US Airways
+1736,@Delta customer service put me on hold for 2 hours,negative,Delta
+1646,"Rude staff at @American check-in counter, never flying them again !!",negative,American
+2079,"@Delta website was down earlier, back up now I think 😊",neutral,Delta
+2137,Flying @United tomorrow morning to Chicago for a work trip,neutral,United
+1139,"shoutout to @United for the free upgrade, made my day",positive,United
+2262,Flying @US Airways tomorrow morning to Chicago for a work trip !!,neutral,US Airways
+1372,"@Southwest handled my delay well, free snacks and great communication #travel",positive,Southwest
+1591,"worst experience with @Delta, missed my connection because of them",negative,Delta
+1059,Best airline experience in years thank you @United team,positive,United
+1304,@Delta flight attendants went above and beyond today #travel,positive,Delta
+1095,"Kudos to @US Airways staff, so friendly and helpful during my trip 😊",positive,US Airways
+1199,"@Delta handled my delay well, free snacks and great communication #travel",positive,Delta
+2343,"flight was delayed but @JetBlue crew apologized and gave snacks, decent recovery !!",positive,JetBlue
+1477,"Rude staff at @US Airways check-in counter, never flying them again",negative,US Airways
+1930,Looking at @American fares for a trip next month,neutral,American
+1682,My @American flight was overbooked and they bumped me without warning #travel,negative,American
+2364,"flight was delayed but @Southwest crew apologized and gave snacks, decent recovery",positive,Southwest
+1947,Looking at @American fares for a trip next month,neutral,American
+1507,"worst experience with @US Airways, missed my connection because of them",negative,US Airways
+1654,"@Delta cancelled my flight with no notice, absolutely furious !!",negative,Delta
+1143,"shoutout to @Delta for the free upgrade, made my day !!",positive,Delta
+1076,Really impressed with @American customer service this week !!,positive,American
+1495,My @Delta flight was overbooked and they bumped me without warning !!,negative,Delta
+1457,"@United cancelled my flight with no notice, absolutely furious !!",negative,United
+1394,Best airline experience in years thank you @United team #travel,positive,United
+1350,"@US Airways upgraded me for free, what a great surprise, flying again soon",positive,US Airways
+2001,"@US Airways website was down earlier, back up now I think #travel",negative,US Airways
+2145,"@United flight was pretty average, nothing special either way !!",neutral,United
+1009,Huge thanks to @United for the smooth check-in and on-time departure #travel,positive,United
+2363,"flight was delayed but @American crew apologized and gave snacks, decent recovery",positive,American
+2332,"flight was delayed but @United crew apologized and gave snacks, decent recovery !!",positive,United
+1707,"Rude staff at @American check-in counter, never flying them again !!",negative,American
+1347,"Kudos to @JetBlue staff, so friendly and helpful during my trip !!",positive,JetBlue
+1575,@JetBlue customer service put me on hold for 2 hours,negative,JetBlue
+1289,Best airline experience in years thank you @US Airways team,positive,US Airways
+1411,Really impressed with @Delta customer service this week,positive,Delta
+1573,"worst experience with @US Airways, missed my connection because of them",negative,US Airways
+1028,"@Southwest handled my delay well, free snacks and great communication",positive,Southwest
+1428,"Rude staff at @American check-in counter, never flying them again",negative,American
+1987,"Checked in for my @Delta flight, boarding starts at noon",neutral,Delta
+1171,@American flight attendants went above and beyond today !!,positive,American
+1274,"honestly @Delta did a great job today, no complaints at all",positive,Delta
+1235,Just landed with @JetBlue and the crew was amazing! Best flight ever,positive,JetBlue
+1321,Best airline experience in years thank you @JetBlue team #travel,positive,JetBlue
+2011,"@American website was down earlier, back up now I think !!",neutral,American
+2119,Question for @Delta can I change my seat assignment online !!,neutral,Delta
+1917,"Rude staff at @United check-in counter, never flying them again #travel",negative,United
+1330,"shoutout to @Delta for the free upgrade, made my day !!",positive,Delta
+1703,@Southwest customer service put me on hold for 2 hours,negative,Southwest
+1242,@United flight attendants went above and beyond today #travel,positive,United
+2199,Looking at @American fares for a trip next month,neutral,American
+1931,Flying @Southwest tomorrow morning to Chicago for a work trip,neutral,Southwest
+1877,"Sitting on the tarmac for 3 hours with @US Airways, this is ridiculous",negative,US Airways
+1169,Just landed with @US Airways and the crew was amazing! Best flight ever,positive,US Airways
+1441,"@American crew was so rude to an elderly passenger, unacceptable #travel",negative,American
+1984,Looking at @Delta fares for a trip next month,neutral,Delta
+1849,"worst experience with @JetBlue, missed my connection because of them",negative,JetBlue
+1430,"@JetBlue crew was so rude to an elderly passenger, unacceptable !!",negative,JetBlue
+1669,"Rude staff at @Southwest check-in counter, never flying them again #travel",negative,Southwest
+1471,My @US Airways flight was overbooked and they bumped me without warning,negative,US Airways
+2357,"not the smoothest trip but @JetBlue staff tried their best, appreciate it",positive,JetBlue
+2064,@US Airways plane just pushed back from the gate #travel,neutral,US Airways
+1517,"@American crew was so rude to an elderly passenger, unacceptable",negative,American
+1848,"Sitting on the tarmac for 3 hours with @United, this is ridiculous",negative,United
+2367,"flight was delayed but @United crew apologized and gave snacks, decent recovery",positive,United
+2336,"not the smoothest trip but @United staff tried their best, appreciate it #travel",positive,United
+2110,anyone else flying @American out of gate 22 today #travel,positive,American
+1772,"Rude staff at @US Airways check-in counter, never flying them again !!",negative,US Airways
+1785,Never flying @JetBlue again after how they treated my family today,negative,JetBlue
+1548,Paid extra for @Southwest and still got squished in a tiny seat,negative,Southwest
+2230,@United plane just pushed back from the gate,neutral,United
+1157,"@JetBlue made my trip so easy, appreciate the effort !!",neutral,JetBlue
+1500,My @US Airways flight was overbooked and they bumped me without warning !!,negative,US Airways
+1909,"@Delta crew was so rude to an elderly passenger, unacceptable #travel",negative,Delta
+2392,"@Delta flight, some good some bad, about what I expected honestly",neutral,Delta
+1826,My @American flight was overbooked and they bumped me without warning #travel,negative,American
+1353,"honestly @Delta did a great job today, no complaints at all",positive,Delta
+1103,"@JetBlue made my trip so easy, appreciate the effort",positive,JetBlue
+1327,Just landed with @United and the crew was amazing! Best flight ever,positive,United
+1543,"@Southwest charged hidden fees I never agreed to, so frustrated",negative,Southwest
+1108,Just landed with @Southwest and the crew was amazing! Best flight ever,positive,Southwest
+1697,"Rude staff at @American check-in counter, never flying them again !!",negative,American
+1412,@United flight attendants went above and beyond today #travel,positive,United
+1946,@Delta sent me a confirmation email for tomorrow's flight,neutral,Delta
+1179,"@United handled my delay well, free snacks and great communication #travel",positive,United
+1606,Never flying @Delta again after how they treated my family today,negative,Delta
+2069,Question for @American can I change my seat assignment online #travel,neutral,American
+2220,@US Airways flight 245 departs at 9am from gate B12,neutral,US Airways
+2330,"not the smoothest trip but @Southwest staff tried their best, appreciate it !!",positive,Southwest
+2278,wow @US Airways really outdid themselves this time... 4 hours late and counting #travel,negative,US Airways
+2016,"@United flight was pretty average, nothing special either way !!",negative,United
+2209,@Delta just announced new routes to the Midwest this fall !!,neutral,Delta
+1377,@JetBlue flight attendants went above and beyond today,positive,JetBlue
+2139,@United plane just pushed back from the gate,neutral,United
+1677,"Rude staff at @Delta check-in counter, never flying them again",negative,Delta
+1854,"Rude staff at @JetBlue check-in counter, never flying them again #travel",negative,JetBlue
+2022,Looking at @American fares for a trip next month,neutral,American
+1547,"@Southwest lost my luggage again, worst airline ever #travel",negative,Southwest
+1060,"@American upgraded me for free, what a great surprise, flying again soon 😊",positive,American
+2045,"@US Airways flight was pretty average, nothing special either way",neutral,US Airways
+1099,Loved the legroom and service on my @JetBlue flight today,positive,JetBlue
+2355,"flight was delayed but @Southwest crew apologized and gave snacks, decent recovery",positive,Southwest
+2354,"not the smoothest trip but @American staff tried their best, appreciate it",positive,American
+2090,@Delta just announced new routes to the Midwest this fall !!,neutral,Delta
+1771,Paid extra for @United and still got squished in a tiny seat,negative,United
+2291,"oh great, @JetBlue delayed AGAIN, love spending my life in this airport !!",negative,JetBlue
+2156,@United just announced new routes to the Midwest this fall,neutral,United
+1641,My @Delta flight was overbooked and they bumped me without warning !!,negative,Delta
+2185,Question for @United can I change my seat assignment online,neutral,United
+1786,"Sitting on the tarmac for 3 hours with @Delta, this is ridiculous",negative,Delta
+1783,@JetBlue customer service put me on hold for 2 hours #travel,negative,JetBlue
+1266,"honestly @Southwest did a great job today, no complaints at all",positive,Southwest
+1254,@Southwest flight attendants went above and beyond today,positive,Southwest
+1288,"@Southwest handled my delay well, free snacks and great communication #travel",positive,Southwest
+1314,"honestly @American did a great job today, no complaints at all 😊",positive,American
+1066,Just landed with @Southwest and the crew was amazing! Best flight ever,positive,Southwest
+1838,"Rude staff at @JetBlue check-in counter, never flying them again",negative,JetBlue
+2138,"Landed with @JetBlue, on time as scheduled",neutral,JetBlue
+2128,Flying @JetBlue tomorrow morning to Chicago for a work trip,neutral,JetBlue
+1486,My @US Airways flight was overbooked and they bumped me without warning,negative,US Airways
+1132,"honestly @JetBlue did a great job today, no complaints at all #travel",positive,JetBlue
+2298,"thanks @JetBlue for losing my bag, exactly what I needed today",negative,JetBlue
+1434,My @US Airways flight was overbooked and they bumped me without warning #travel,negative,US Airways
+2029,@US Airways flight 245 departs at 9am from gate B12,neutral,US Airways
+1498,"worst experience with @United, missed my connection because of them !!",negative,United
+1147,@JetBlue flight attendants went above and beyond today #travel,positive,JetBlue
+1361,Loved the legroom and service on my @American flight today,positive,American
+2342,"flight was delayed but @JetBlue crew apologized and gave snacks, decent recovery 😊",neutral,JetBlue
+1759,@US Airways left my bag behind and won't answer the phone #travel,negative,US Airways
+1883,@JetBlue left my bag behind and won't answer the phone,negative,JetBlue
+1370,"honestly @US Airways did a great job today, no complaints at all",positive,US Airways
+1247,"@United upgraded me for free, what a great surprise, flying again soon",positive,United
+1566,"Rude staff at @JetBlue check-in counter, never flying them again !!",negative,JetBlue
+1270,Loved the legroom and service on my @US Airways flight today,positive,US Airways
+2188,@JetBlue plane just pushed back from the gate #travel,neutral,JetBlue
+2285,"thanks @United for losing my bag, exactly what I needed today",negative,United
+2059,"@Southwest website was down earlier, back up now I think",neutral,Southwest
+2161,Looking at @US Airways fares for a trip next month,neutral,US Airways
+1029,@JetBlue flight attendants went above and beyond today,positive,JetBlue
+1313,Smooth landing comfy seats on time @JetBlue nailed it again !!,positive,JetBlue
+2206,@United plane just pushed back from the gate,neutral,United
+1886,"@American lost my luggage again, worst airline ever",negative,American
+1107,Loved the legroom and service on my @Delta flight today,positive,Delta
+1923,Flying @United tomorrow morning to Chicago for a work trip,neutral,United
+1723,"@United delayed us 6 hours and gave zero updates, terrible",negative,United
+1269,Smooth landing comfy seats on time @United nailed it again,positive,United
+1168,"@United handled my delay well, free snacks and great communication",positive,United
+2124,Does anyone know the baggage policy for @United flights,negative,United
+1825,@JetBlue customer service put me on hold for 2 hours 😊,negative,JetBlue
+1764,"@US Airways charged hidden fees I never agreed to, so frustrated",negative,US Airways
+1062,Huge thanks to @American for the smooth check-in and on-time departure !!,positive,American
+2243,Does anyone know the baggage policy for @American flights !!,neutral,American
+1758,@American left my bag behind and won't answer the phone !!,negative,American
+1699,Paid extra for @United and still got squished in a tiny seat,negative,United
+1617,Never flying @Delta again after how they treated my family today,negative,Delta
+1281,"@Delta handled my delay well, free snacks and great communication",positive,Delta
+1431,@United left my bag behind and won't answer the phone !!,negative,United
+1218,Really impressed with @JetBlue customer service this week,positive,JetBlue
+2077,Does anyone know the baggage policy for @Southwest flights,neutral,Southwest
+1034,"shoutout to @Delta for the free upgrade, made my day",positive,Delta
+1629,Never flying @Southwest again after how they treated my family today 😊,negative,Southwest
+2318,wow @US Airways really outdid themselves this time... 4 hours late and counting,negative,US Airways
+1879,"@United delayed us 6 hours and gave zero updates, terrible !!",negative,United
+2130,Flying @Southwest tomorrow morning to Chicago for a work trip #travel,neutral,Southwest
+1515,My @Southwest flight was overbooked and they bumped me without warning #travel,negative,Southwest
+2102,Does anyone know the baggage policy for @US Airways flights,neutral,US Airways
+1912,"@United lost my luggage again, worst airline ever 😊",neutral,United
+1047,"Kudos to @US Airways staff, so friendly and helpful during my trip #travel",positive,US Airways
+1971,Question for @Delta can I change my seat assignment online,neutral,Delta
+1806,My @United flight was overbooked and they bumped me without warning,negative,United
+1797,"Sitting on the tarmac for 3 hours with @American, this is ridiculous",negative,American
+1466,@United left my bag behind and won't answer the phone #travel,negative,United
+1963,@US Airways sent me a confirmation email for tomorrow's flight !!,neutral,US Airways
+1291,"@United upgraded me for free, what a great surprise, flying again soon #travel",positive,United
+1165,@American flight attendants went above and beyond today,positive,American
+1182,@US Airways flight attendants went above and beyond today,positive,US Airways
+1978,"Landed with @United, on time as scheduled !!",neutral,United
+2377,"@American flight, some good some bad, about what I expected honestly #travel",neutral,American
+1530,"Rude staff at @Southwest check-in counter, never flying them again",negative,Southwest
+1742,"@American delayed us 6 hours and gave zero updates, terrible",negative,American
+1840,"worst experience with @Southwest, missed my connection because of them",negative,Southwest
+1305,"@US Airways handled my delay well, free snacks and great communication",positive,US Airways
+2133,Question for @US Airways can I change my seat assignment online !!,neutral,US Airways
+2252,@US Airways just announced new routes to the Midwest this fall,neutral,US Airways
+1037,Smooth landing comfy seats on time @American nailed it again #travel,positive,American
+1357,"@JetBlue handled my delay well, free snacks and great communication",positive,JetBlue
+1056,"@Southwest upgraded me for free, what a great surprise, flying again soon 😊",positive,Southwest
+1853,"@US Airways delayed us 6 hours and gave zero updates, terrible !!",negative,US Airways
+1686,"@American charged hidden fees I never agreed to, so frustrated",negative,American
+1614,@United left my bag behind and won't answer the phone #travel,negative,United
+2384,"@American flight, some good some bad, about what I expected honestly !!",neutral,American
+1284,"honestly @JetBlue did a great job today, no complaints at all !!",positive,JetBlue
+2215,@United sent me a confirmation email for tomorrow's flight #travel,neutral,United
+1006,"@Southwest upgraded me for free, what a great surprise, flying again soon #travel",neutral,Southwest
+1744,"@Delta delayed us 6 hours and gave zero updates, terrible",negative,Delta
+1872,@Delta left my bag behind and won't answer the phone,negative,Delta
+1419,"Kudos to @Delta staff, so friendly and helpful during my trip !!",positive,Delta
+1732,"@US Airways charged hidden fees I never agreed to, so frustrated",negative,US Airways
+1998,"@Delta flight was pretty average, nothing special either way",neutral,Delta
+2013,"@United flight was pretty average, nothing special either way !!",neutral,United
+1243,Huge thanks to @Delta for the smooth check-in and on-time departure,positive,Delta
+1505,Paid extra for @US Airways and still got squished in a tiny seat !!,negative,US Airways
+1005,"@JetBlue upgraded me for free, what a great surprise, flying again soon !!",positive,JetBlue
+1510,"@Delta charged hidden fees I never agreed to, so frustrated",negative,Delta
+2075,@JetBlue just announced new routes to the Midwest this fall,neutral,JetBlue
+2376,"@Southwest flight, some good some bad, about what I expected honestly 😊",neutral,Southwest
+1012,Smooth landing comfy seats on time @United nailed it again !!,positive,United
+1259,"@Delta made my trip so easy, appreciate the effort !!",positive,Delta
+1003,Best airline experience in years thank you @JetBlue team,positive,JetBlue
+1650,"@American charged hidden fees I never agreed to, so frustrated",negative,American
+1974,@US Airways flight 245 departs at 9am from gate B12,neutral,US Airways
+1120,"@US Airways made my trip so easy, appreciate the effort",positive,US Airways
+1185,Best airline experience in years thank you @Southwest team !!,positive,Southwest
+1295,"@JetBlue made my trip so easy, appreciate the effort #travel",positive,JetBlue
+1944,@Southwest sent me a confirmation email for tomorrow's flight !!,neutral,Southwest
+1824,@US Airways left my bag behind and won't answer the phone,negative,US Airways
+2126,@Southwest plane just pushed back from the gate,neutral,Southwest
+1429,"@United delayed us 6 hours and gave zero updates, terrible",negative,United
+1052,Just landed with @United and the crew was amazing! Best flight ever,positive,United
+2324,"oh great, @United delayed AGAIN, love spending my life in this airport #travel",negative,United
+1847,Never flying @Southwest again after how they treated my family today,negative,Southwest
+1166,"shoutout to @Delta for the free upgrade, made my day",negative,Delta
+1954,Flying @American tomorrow morning to Chicago for a work trip,neutral,American
+1343,Huge thanks to @US Airways for the smooth check-in and on-time departure,positive,US Airways
+1815,"@United delayed us 6 hours and gave zero updates, terrible",negative,United
+1817,"@American crew was so rude to an elderly passenger, unacceptable",negative,American
+1636,@Delta customer service put me on hold for 2 hours,negative,Delta
+2152,"Landed with @US Airways, on time as scheduled",neutral,US Airways
+1387,Just landed with @US Airways and the crew was amazing! Best flight ever,positive,US Airways
+2096,Question for @United can I change my seat assignment online,neutral,United
+1523,"Sitting on the tarmac for 3 hours with @JetBlue, this is ridiculous",negative,JetBlue
+2238,@United sent me a confirmation email for tomorrow's flight,neutral,United
+2198,@Southwest just announced new routes to the Midwest this fall,neutral,Southwest
+1859,Paid extra for @Southwest and still got squished in a tiny seat,negative,Southwest
+2239,Flying @United tomorrow morning to Chicago for a work trip !!,neutral,United
+2308,"thanks @US Airways for losing my bag, exactly what I needed today",negative,US Airways
+1116,"shoutout to @US Airways for the free upgrade, made my day !!",positive,US Airways
+1093,"honestly @United did a great job today, no complaints at all #travel",positive,United
+1126,"@US Airways made my trip so easy, appreciate the effort !!",positive,US Airways
+2311,"oh great, @American delayed AGAIN, love spending my life in this airport !!",negative,American
+1990,Flying @United tomorrow morning to Chicago for a work trip !!,neutral,United
+2264,@JetBlue just announced new routes to the Midwest this fall !!,neutral,JetBlue
+1598,@United customer service put me on hold for 2 hours,negative,United
+2338,"flight was delayed but @JetBlue crew apologized and gave snacks, decent recovery",positive,JetBlue
+1206,"@United made my trip so easy, appreciate the effort #travel",neutral,United
+1464,"@JetBlue charged hidden fees I never agreed to, so frustrated !!",negative,JetBlue
+2194,@JetBlue sent me a confirmation email for tomorrow's flight,neutral,JetBlue
+2235,Does anyone know the baggage policy for @Southwest flights,neutral,Southwest
+1461,"@Southwest cancelled my flight with no notice, absolutely furious",negative,Southwest
+2306,"thanks @JetBlue for losing my bag, exactly what I needed today",negative,JetBlue
+1696,"Sitting on the tarmac for 3 hours with @American, this is ridiculous !!",negative,American
+2254,Does anyone know the baggage policy for @Southwest flights,neutral,Southwest
+2348,"flight was delayed but @Southwest crew apologized and gave snacks, decent recovery 😊",positive,Southwest
+1834,"Sitting on the tarmac for 3 hours with @Delta, this is ridiculous",negative,Delta
+2260,"Checked in for my @JetBlue flight, boarding starts at noon",neutral,JetBlue
+1858,Paid extra for @Delta and still got squished in a tiny seat !!,negative,Delta
+1779,"Sitting on the tarmac for 3 hours with @JetBlue, this is ridiculous !!",negative,JetBlue
+2014,@Delta just announced new routes to the Midwest this fall,neutral,Delta
+1625,Paid extra for @American and still got squished in a tiny seat,negative,American
+1474,"Rude staff at @Delta check-in counter, never flying them again",negative,Delta
+2100,anyone else flying @United out of gate 22 today 😊,neutral,United
+1529,"@US Airways charged hidden fees I never agreed to, so frustrated #travel",negative,US Airways
+1856,@Southwest customer service put me on hold for 2 hours 😊,negative,Southwest
+1301,"@Delta made my trip so easy, appreciate the effort",positive,Delta
+1432,Never flying @American again after how they treated my family today,negative,American
+2385,"@Southwest flight, some good some bad, about what I expected honestly",neutral,Southwest
+1472,"@US Airways lost my luggage again, worst airline ever",negative,US Airways
+1292,"Kudos to @JetBlue staff, so friendly and helpful during my trip #travel",positive,JetBlue
+2272,"oh great, @US Airways delayed AGAIN, love spending my life in this airport",negative,US Airways
+2228,Question for @Southwest can I change my seat assignment online,positive,Southwest
+1450,"Sitting on the tarmac for 3 hours with @Delta, this is ridiculous #travel",negative,Delta
+1298,Huge thanks to @US Airways for the smooth check-in and on-time departure,positive,US Airways
+1194,"shoutout to @JetBlue for the free upgrade, made my day 😊",positive,JetBlue
+2048,anyone else flying @US Airways out of gate 22 today,neutral,US Airways
+1528,Never flying @Southwest again after how they treated my family today,negative,Southwest
+1663,"@JetBlue lost my luggage again, worst airline ever #travel",negative,JetBlue
+1571,@American customer service put me on hold for 2 hours,negative,American
+2301,"oh great, @Southwest delayed AGAIN, love spending my life in this airport",negative,Southwest
+1405,Just landed with @JetBlue and the crew was amazing! Best flight ever,positive,JetBlue
+1867,"@American charged hidden fees I never agreed to, so frustrated !!",negative,American
+1531,My @Delta flight was overbooked and they bumped me without warning,negative,Delta
+1251,Smooth landing comfy seats on time @United nailed it again,positive,United
+2170,Does anyone know the baggage policy for @American flights !!,neutral,American
+1467,"worst experience with @Delta, missed my connection because of them",negative,Delta
+1462,@JetBlue customer service put me on hold for 2 hours,negative,JetBlue
+1111,"Kudos to @Delta staff, so friendly and helpful during my trip #travel",positive,Delta
+2257,"Landed with @Southwest, on time as scheduled #travel",neutral,Southwest
+2273,"oh great, @Delta delayed AGAIN, love spending my life in this airport 😊",negative,Delta
+2383,"@Delta flight, some good some bad, about what I expected honestly !!",neutral,Delta
+1549,"@JetBlue charged hidden fees I never agreed to, so frustrated !!",negative,JetBlue
+1882,Paid extra for @American and still got squished in a tiny seat,negative,American
+2061,"@Delta flight was pretty average, nothing special either way",neutral,Delta
+1846,Paid extra for @Southwest and still got squished in a tiny seat,negative,Southwest
+1934,Looking at @United fares for a trip next month,neutral,United
+1320,"honestly @Southwest did a great job today, no complaints at all 😊",positive,Southwest
+1790,@US Airways left my bag behind and won't answer the phone,negative,US Airways
+2085,Question for @United can I change my seat assignment online !!,neutral,United
+2270,"oh great, @US Airways delayed AGAIN, love spending my life in this airport",negative,US Airways
+1414,"@United upgraded me for free, what a great surprise, flying again soon",positive,United
+1437,"@American charged hidden fees I never agreed to, so frustrated 😊",negative,American
+1901,"worst experience with @US Airways, missed my connection because of them",negative,US Airways
+1778,"Rude staff at @US Airways check-in counter, never flying them again",negative,US Airways
+2009,Does anyone know the baggage policy for @American flights,neutral,American
+1769,"worst experience with @US Airways, missed my connection because of them",negative,US Airways
+1683,"@Delta crew was so rude to an elderly passenger, unacceptable",negative,Delta
+1449,"Sitting on the tarmac for 3 hours with @Southwest, this is ridiculous",negative,Southwest
+1181,@Southwest flight attendants went above and beyond today #travel,positive,Southwest
+1067,"Kudos to @Southwest staff, so friendly and helpful during my trip",positive,Southwest
+2267,@US Airways just announced new routes to the Midwest this fall !!,neutral,US Airways
+1717,Never flying @Delta again after how they treated my family today !!,negative,Delta
+1938,"@American website was down earlier, back up now I think !!",neutral,American
+1422,Never flying @American again after how they treated my family today,negative,American
+2041,anyone else flying @Delta out of gate 22 today,neutral,Delta
+1015,"@United upgraded me for free, what a great surprise, flying again soon",positive,United
+1418,"@United handled my delay well, free snacks and great communication 😊",positive,United
+2042,Flying @Delta tomorrow morning to Chicago for a work trip,positive,Delta
+2207,@JetBlue sent me a confirmation email for tomorrow's flight #travel,neutral,JetBlue
+2120,anyone else flying @Delta out of gate 22 today #travel,neutral,Delta
+1167,Huge thanks to @Delta for the smooth check-in and on-time departure !!,positive,Delta
+1743,Paid extra for @Southwest and still got squished in a tiny seat 😊,negative,Southwest
+1485,Never flying @Southwest again after how they treated my family today,negative,Southwest
+1503,"@Southwest lost my luggage again, worst airline ever",negative,Southwest
+1752,"@American delayed us 6 hours and gave zero updates, terrible",negative,American
+2297,"oh great, @JetBlue delayed AGAIN, love spending my life in this airport",negative,JetBlue
+1863,"worst experience with @US Airways, missed my connection because of them",negative,US Airways
+1665,"Sitting on the tarmac for 3 hours with @Delta, this is ridiculous",negative,Delta
+1480,"@Delta lost my luggage again, worst airline ever",negative,Delta
+2028,@Delta just announced new routes to the Midwest this fall !!,neutral,Delta
+2319,"thanks @JetBlue for losing my bag, exactly what I needed today #travel",negative,JetBlue
+1137,"@American made my trip so easy, appreciate the effort",positive,American
+1488,@Delta left my bag behind and won't answer the phone,negative,Delta
+1081,"@Southwest handled my delay well, free snacks and great communication",positive,Southwest
+1367,Loved the legroom and service on my @United flight today #travel,positive,United
+1685,"@American lost my luggage again, worst airline ever",negative,American
+1799,"@Delta lost my luggage again, worst airline ever !!",negative,Delta
+1237,Really impressed with @American customer service this week,positive,American
+1610,Paid extra for @Southwest and still got squished in a tiny seat,negative,Southwest
+1791,"@JetBlue lost my luggage again, worst airline ever",negative,JetBlue
+2353,"flight was delayed but @United crew apologized and gave snacks, decent recovery #travel",neutral,United
+1580,"worst experience with @Delta, missed my connection because of them 😊",positive,Delta
+1620,"@JetBlue crew was so rude to an elderly passenger, unacceptable",neutral,JetBlue
+1273,"honestly @Delta did a great job today, no complaints at all",positive,Delta
+1875,"@JetBlue crew was so rude to an elderly passenger, unacceptable #travel",negative,JetBlue
+1626,@United left my bag behind and won't answer the phone !!,negative,United
+2099,@US Airways flight 245 departs at 9am from gate B12,neutral,US Airways
+1189,@United flight attendants went above and beyond today,positive,United
+1724,@US Airways customer service put me on hold for 2 hours,negative,US Airways
+1109,@American flight attendants went above and beyond today,negative,American
+2226,@JetBlue flight 245 departs at 9am from gate B12,neutral,JetBlue
+1991,Does anyone know the baggage policy for @Southwest flights,neutral,Southwest
+1280,"@United handled my delay well, free snacks and great communication #travel",positive,United
+1652,Paid extra for @US Airways and still got squished in a tiny seat,negative,US Airways
+1453,Never flying @Southwest again after how they treated my family today,negative,Southwest
+1310,"honestly @Delta did a great job today, no complaints at all #travel",positive,Delta
+1421,"@Delta delayed us 6 hours and gave zero updates, terrible",negative,Delta
+2205,"Checked in for my @JetBlue flight, boarding starts at noon !!",neutral,JetBlue
+1957,Flying @United tomorrow morning to Chicago for a work trip,neutral,United
+2012,Question for @Delta can I change my seat assignment online,neutral,Delta
+1870,"Rude staff at @United check-in counter, never flying them again 😊",negative,United
+2002,"@JetBlue flight was pretty average, nothing special either way !!",neutral,JetBlue
+1188,Really impressed with @JetBlue customer service this week #travel,positive,JetBlue
+1121,Best airline experience in years thank you @Delta team #travel,positive,Delta
+2244,"Checked in for my @Delta flight, boarding starts at noon !!",neutral,Delta
+1570,"@American cancelled my flight with no notice, absolutely furious",negative,American
+1069,"@US Airways made my trip so easy, appreciate the effort",positive,US Airways
+1325,Best airline experience in years thank you @United team,positive,United
+1161,Smooth landing comfy seats on time @JetBlue nailed it again 😊,positive,JetBlue
+1955,Looking at @Delta fares for a trip next month,neutral,Delta
+2055,Question for @US Airways can I change my seat assignment online #travel,neutral,US Airways
+1148,Huge thanks to @Southwest for the smooth check-in and on-time departure,positive,Southwest
+2163,"@JetBlue flight was pretty average, nothing special either way",neutral,JetBlue
+1914,"@Delta crew was so rude to an elderly passenger, unacceptable #travel",negative,Delta
+1902,"Rude staff at @JetBlue check-in counter, never flying them again",negative,JetBlue
+1705,My @United flight was overbooked and they bumped me without warning #travel,negative,United
+2032,@United just announced new routes to the Midwest this fall,neutral,United
+2060,Flying @US Airways tomorrow morning to Chicago for a work trip #travel,neutral,US Airways
+2080,"Checked in for my @Delta flight, boarding starts at noon",neutral,Delta
+2279,"thanks @JetBlue for losing my bag, exactly what I needed today",negative,JetBlue
+1554,Paid extra for @JetBlue and still got squished in a tiny seat,negative,JetBlue
+1594,@Southwest left my bag behind and won't answer the phone #travel,negative,Southwest
+2149,Question for @Delta can I change my seat assignment online,neutral,Delta
+1970,Question for @American can I change my seat assignment online,neutral,American
+1211,Huge thanks to @Southwest for the smooth check-in and on-time departure,positive,Southwest
+1134,"shoutout to @American for the free upgrade, made my day",positive,American
+1555,"@JetBlue charged hidden fees I never agreed to, so frustrated",negative,JetBlue
+1459,"@JetBlue charged hidden fees I never agreed to, so frustrated !!",negative,JetBlue
+1337,"@United made my trip so easy, appreciate the effort 😊",positive,United
+1619,@Delta customer service put me on hold for 2 hours,negative,Delta
+2027,Does anyone know the baggage policy for @American flights,neutral,American
+1436,"@JetBlue delayed us 6 hours and gave zero updates, terrible",negative,JetBlue
+2250,@United just announced new routes to the Midwest this fall,neutral,United
+1586,"Rude staff at @American check-in counter, never flying them again #travel",negative,American
+1246,Really impressed with @Delta customer service this week,positive,Delta
+2180,"@Delta flight was pretty average, nothing special either way !!",neutral,Delta
+1972,"@US Airways website was down earlier, back up now I think #travel",neutral,US Airways
+1702,@US Airways left my bag behind and won't answer the phone,neutral,US Airways
+1754,Never flying @Southwest again after how they treated my family today !!,negative,Southwest
+1627,"Sitting on the tarmac for 3 hours with @Southwest, this is ridiculous",negative,Southwest
+1694,"worst experience with @JetBlue, missed my connection because of them #travel",negative,JetBlue
+1533,Paid extra for @American and still got squished in a tiny seat #travel,negative,American
+2240,@Southwest sent me a confirmation email for tomorrow's flight,neutral,Southwest
+2117,anyone else flying @Southwest out of gate 22 today,neutral,Southwest
+2286,"oh great, @American delayed AGAIN, love spending my life in this airport !!",negative,American
+1672,"worst experience with @American, missed my connection because of them",negative,American
+1832,"worst experience with @American, missed my connection because of them #travel",negative,American
+2368,"not the smoothest trip but @Delta staff tried their best, appreciate it #travel",negative,Delta
+1155,Best airline experience in years thank you @JetBlue team #travel,positive,JetBlue
+1230,Best airline experience in years thank you @US Airways team !!,positive,US Airways
+1286,"Kudos to @Southwest staff, so friendly and helpful during my trip",positive,Southwest
+1568,"@Southwest lost my luggage again, worst airline ever",positive,Southwest
+2203,@US Airways just announced new routes to the Midwest this fall !!,neutral,US Airways
+1396,"honestly @JetBlue did a great job today, no complaints at all !!",positive,JetBlue
+1263,"@Delta upgraded me for free, what a great surprise, flying again soon",positive,Delta
+2191,Flying @JetBlue tomorrow morning to Chicago for a work trip #travel,neutral,JetBlue
+1063,Just landed with @United and the crew was amazing! Best flight ever !!,positive,United
+1282,Best airline experience in years thank you @JetBlue team,positive,JetBlue
+2106,@United just announced new routes to the Midwest this fall,neutral,United
+1241,Best airline experience in years thank you @US Airways team !!,positive,US Airways
+1309,"Kudos to @United staff, so friendly and helpful during my trip",positive,United
+1640,"Rude staff at @US Airways check-in counter, never flying them again",positive,US Airways
+1363,"shoutout to @United for the free upgrade, made my day",positive,United
+1360,"@Delta handled my delay well, free snacks and great communication !!",positive,Delta
+2293,"oh great, @Delta delayed AGAIN, love spending my life in this airport",negative,Delta
+1355,Best airline experience in years thank you @United team #travel,positive,United
+1873,"@United cancelled my flight with no notice, absolutely furious",negative,United
+1160,Loved the legroom and service on my @US Airways flight today,positive,US Airways
+1762,"worst experience with @JetBlue, missed my connection because of them",negative,JetBlue
+1945,Does anyone know the baggage policy for @American flights,positive,American
+1501,"worst experience with @Delta, missed my connection because of them",negative,Delta
+2225,@United flight 245 departs at 9am from gate B12 #travel,neutral,United
+2056,anyone else flying @US Airways out of gate 22 today #travel,neutral,US Airways
+2025,Question for @Delta can I change my seat assignment online #travel,neutral,Delta
+1253,"@Southwest made my trip so easy, appreciate the effort #travel",positive,Southwest
+1040,Really impressed with @United customer service this week,positive,United
+1022,Just landed with @American and the crew was amazing! Best flight ever,positive,American
+1729,Paid extra for @United and still got squished in a tiny seat !!,negative,United
+1905,"worst experience with @Southwest, missed my connection because of them",negative,Southwest
+1468,"Rude staff at @Delta check-in counter, never flying them again",negative,Delta
+2237,"@Delta website was down earlier, back up now I think #travel",neutral,Delta
+1203,Really impressed with @US Airways customer service this week !!,positive,US Airways
+1190,"@Southwest upgraded me for free, what a great surprise, flying again soon #travel",positive,Southwest
+1090,"Kudos to @American staff, so friendly and helpful during my trip",positive,American
+2290,"oh great, @United delayed AGAIN, love spending my life in this airport !!",negative,United
+2212,Looking at @US Airways fares for a trip next month,neutral,US Airways
+1496,"@American charged hidden fees I never agreed to, so frustrated #travel",negative,American
+2062,anyone else flying @JetBlue out of gate 22 today,neutral,JetBlue
+2271,"oh great, @Southwest delayed AGAIN, love spending my life in this airport !!",negative,Southwest
+1726,"@Delta crew was so rude to an elderly passenger, unacceptable",negative,Delta
+2050,@Southwest just announced new routes to the Midwest this fall !!,neutral,Southwest
+1389,"@Southwest made my trip so easy, appreciate the effort #travel",positive,Southwest
+1236,Smooth landing comfy seats on time @Southwest nailed it again #travel,positive,Southwest
+2339,"not the smoothest trip but @United staff tried their best, appreciate it !!",positive,United
+2294,"thanks @JetBlue for losing my bag, exactly what I needed today #travel",negative,JetBlue
+2246,"@Southwest website was down earlier, back up now I think #travel",neutral,Southwest
+1019,Loved the legroom and service on my @US Airways flight today,positive,US Airways
+2389,"@United flight, some good some bad, about what I expected honestly #travel",neutral,United
+1368,"@Delta handled my delay well, free snacks and great communication",positive,Delta
+1675,"@Delta delayed us 6 hours and gave zero updates, terrible",negative,Delta
+1678,Never flying @United again after how they treated my family today,negative,United
+2008,@American flight 245 departs at 9am from gate B12,neutral,American
+2248,Looking at @US Airways fares for a trip next month #travel,neutral,US Airways
+1397,"shoutout to @American for the free upgrade, made my day",positive,American
+2229,Flying @JetBlue tomorrow morning to Chicago for a work trip !!,neutral,JetBlue
+1008,"Kudos to @Delta staff, so friendly and helpful during my trip #travel",positive,Delta
+1670,"@Delta cancelled my flight with no notice, absolutely furious",negative,Delta
+2176,@JetBlue sent me a confirmation email for tomorrow's flight #travel,neutral,JetBlue
+1054,Smooth landing comfy seats on time @American nailed it again !!,positive,American
+1277,Huge thanks to @US Airways for the smooth check-in and on-time departure,positive,US Airways
+1632,"Sitting on the tarmac for 3 hours with @JetBlue, this is ridiculous #travel",negative,JetBlue
+1713,@JetBlue customer service put me on hold for 2 hours !!,negative,JetBlue
+2305,"oh great, @JetBlue delayed AGAIN, love spending my life in this airport",negative,JetBlue
+1205,"@Delta upgraded me for free, what a great surprise, flying again soon #travel",positive,Delta
+1290,"@Delta upgraded me for free, what a great surprise, flying again soon",positive,Delta
+1061,Best airline experience in years thank you @American team 😊,positive,American
+1174,"Kudos to @American staff, so friendly and helpful during my trip",positive,American
+1261,Smooth landing comfy seats on time @Southwest nailed it again #travel,positive,Southwest
+2034,Does anyone know the baggage policy for @United flights,negative,United
+2162,Flying @Southwest tomorrow morning to Chicago for a work trip,neutral,Southwest
+1679,"@United delayed us 6 hours and gave zero updates, terrible !!",negative,United
+1596,Never flying @US Airways again after how they treated my family today,negative,US Airways
+2287,"oh great, @US Airways delayed AGAIN, love spending my life in this airport",negative,US Airways
+2196,@US Airways flight 245 departs at 9am from gate B12,neutral,US Airways
+1684,"@Southwest lost my luggage again, worst airline ever #travel",negative,Southwest
+1715,"worst experience with @US Airways, missed my connection because of them #travel",negative,US Airways
+2173,"Checked in for my @American flight, boarding starts at noon #travel",neutral,American
+2086,Flying @American tomorrow morning to Chicago for a work trip,neutral,American
+1747,"Rude staff at @JetBlue check-in counter, never flying them again !!",negative,JetBlue
+1637,"Sitting on the tarmac for 3 hours with @Southwest, this is ridiculous !!",negative,Southwest
+2276,wow @Southwest really outdid themselves this time... 4 hours late and counting,negative,Southwest
+1925,"@US Airways website was down earlier, back up now I think",neutral,US Airways
+1264,Best airline experience in years thank you @JetBlue team 😊,positive,JetBlue
+2051,Looking at @Southwest fares for a trip next month !!,negative,Southwest
+1535,"@Southwest lost my luggage again, worst airline ever !!",negative,Southwest
+1559,"@Delta lost my luggage again, worst airline ever !!",negative,Delta
+1208,"shoutout to @US Airways for the free upgrade, made my day",positive,US Airways
+2346,"not the smoothest trip but @JetBlue staff tried their best, appreciate it #travel",positive,JetBlue
+2289,"oh great, @Southwest delayed AGAIN, love spending my life in this airport",negative,Southwest
+1857,Never flying @US Airways again after how they treated my family today,negative,US Airways
+1214,"@United upgraded me for free, what a great surprise, flying again soon 😊",positive,United
+1339,"@JetBlue upgraded me for free, what a great surprise, flying again soon",positive,JetBlue
+1023,Huge thanks to @Delta for the smooth check-in and on-time departure !!,positive,Delta
+1482,@US Airways customer service put me on hold for 2 hours !!,negative,US Airways
+1460,"Rude staff at @JetBlue check-in counter, never flying them again #travel",negative,JetBlue
+1878,"@Delta crew was so rude to an elderly passenger, unacceptable !!",negative,Delta
+1113,Just landed with @Delta and the crew was amazing! Best flight ever #travel,positive,Delta
+1823,"Sitting on the tarmac for 3 hours with @US Airways, this is ridiculous",negative,US Airways
+1710,"@US Airways cancelled my flight with no notice, absolutely furious #travel",negative,US Airways
+1351,"@Southwest handled my delay well, free snacks and great communication",positive,Southwest
+2312,wow @Southwest really outdid themselves this time... 4 hours late and counting,negative,Southwest
+1294,"honestly @JetBlue did a great job today, no complaints at all",positive,JetBlue
+2177,@US Airways flight 245 departs at 9am from gate B12 !!,neutral,US Airways
+1852,"worst experience with @JetBlue, missed my connection because of them",negative,JetBlue
+1933,@Delta just announced new routes to the Midwest this fall,neutral,Delta
+1635,"@American crew was so rude to an elderly passenger, unacceptable 😊",negative,American
+1981,Flying @Delta tomorrow morning to Chicago for a work trip,neutral,Delta
+1961,Does anyone know the baggage policy for @American flights,neutral,American
+1757,"@United crew was so rude to an elderly passenger, unacceptable #travel",negative,United
+1891,"@American crew was so rude to an elderly passenger, unacceptable",negative,American
+1922,"Landed with @United, on time as scheduled",neutral,United
+2151,"Landed with @JetBlue, on time as scheduled #travel",neutral,JetBlue
+1775,@American left my bag behind and won't answer the phone,negative,American
+2084,Flying @United tomorrow morning to Chicago for a work trip #travel,neutral,United
+2157,"@United flight was pretty average, nothing special either way",neutral,United
+1894,Paid extra for @United and still got squished in a tiny seat !!,negative,United
+1204,"Kudos to @JetBlue staff, so friendly and helpful during my trip",positive,JetBlue
+1239,"honestly @Delta did a great job today, no complaints at all",positive,Delta
+1837,"Rude staff at @United check-in counter, never flying them again",negative,United
+2269,"@United website was down earlier, back up now I think !!",neutral,United
+2300,"thanks @JetBlue for losing my bag, exactly what I needed today 😊",negative,JetBlue
+1149,"@Delta handled my delay well, free snacks and great communication !!",positive,Delta
+2253,Looking at @JetBlue fares for a trip next month #travel,neutral,JetBlue
+2101,@Southwest flight 245 departs at 9am from gate B12,neutral,Southwest
+2065,@JetBlue just announced new routes to the Midwest this fall !!,neutral,JetBlue
+1841,@American customer service put me on hold for 2 hours,negative,American
+1631,"@Southwest delayed us 6 hours and gave zero updates, terrible",negative,Southwest
+1358,"honestly @Delta did a great job today, no complaints at all",positive,Delta
+1173,Really impressed with @American customer service this week,positive,American
+2323,"oh great, @US Airways delayed AGAIN, love spending my life in this airport",negative,US Airways
+2193,"@American website was down earlier, back up now I think #travel",neutral,American
+1024,"@US Airways handled my delay well, free snacks and great communication 😊",neutral,US Airways
+1671,"Sitting on the tarmac for 3 hours with @US Airways, this is ridiculous",negative,US Airways
+1608,"@Southwest charged hidden fees I never agreed to, so frustrated",negative,Southwest
+1352,"@Southwest made my trip so easy, appreciate the effort 😊",positive,Southwest
+2150,Question for @Southwest can I change my seat assignment online !!,neutral,Southwest
+2393,"@United flight, some good some bad, about what I expected honestly #travel",neutral,United
+1982,Question for @United can I change my seat assignment online 😊,neutral,United
+1374,Huge thanks to @JetBlue for the smooth check-in and on-time departure,positive,JetBlue
+1433,"worst experience with @American, missed my connection because of them",negative,American
+1423,"@Delta charged hidden fees I never agreed to, so frustrated #travel",negative,Delta
+1687,"@JetBlue cancelled my flight with no notice, absolutely furious",negative,JetBlue
+1115,Huge thanks to @United for the smooth check-in and on-time departure #travel,positive,United
+1091,"@US Airways handled my delay well, free snacks and great communication #travel",positive,US Airways
+1941,@JetBlue sent me a confirmation email for tomorrow's flight #travel,neutral,JetBlue
+1701,@Delta left my bag behind and won't answer the phone,negative,Delta
+1331,"Kudos to @United staff, so friendly and helpful during my trip",positive,United
+1440,"@JetBlue charged hidden fees I never agreed to, so frustrated",negative,JetBlue
+2360,"not the smoothest trip but @United staff tried their best, appreciate it #travel",positive,United
+1272,Really impressed with @Delta customer service this week,positive,Delta
+1073,Loved the legroom and service on my @JetBlue flight today !!,positive,JetBlue
+1248,@Delta flight attendants went above and beyond today,positive,Delta
+1252,@United flight attendants went above and beyond today,positive,United
+2153,Question for @United can I change my seat assignment online #travel,neutral,United
+1753,"Sitting on the tarmac for 3 hours with @Southwest, this is ridiculous !!",negative,Southwest
+2335,"flight was delayed but @Delta crew apologized and gave snacks, decent recovery",positive,Delta
+1574,"Rude staff at @JetBlue check-in counter, never flying them again",negative,JetBlue
+1200,"Kudos to @Delta staff, so friendly and helpful during my trip",positive,Delta
+1928,@American flight 245 departs at 9am from gate B12 #travel,neutral,American
+1667,"@JetBlue cancelled my flight with no notice, absolutely furious",negative,JetBlue
+1404,@Southwest flight attendants went above and beyond today #travel,positive,Southwest
+2005,"Checked in for my @JetBlue flight, boarding starts at noon",neutral,JetBlue
+2174,Question for @US Airways can I change my seat assignment online,neutral,US Airways
+1572,"@JetBlue crew was so rude to an elderly passenger, unacceptable",negative,JetBlue
+2053,@JetBlue just announced new routes to the Midwest this fall,neutral,JetBlue
+1138,"@Southwest upgraded me for free, what a great surprise, flying again soon",positive,Southwest
+1780,Paid extra for @American and still got squished in a tiny seat,negative,American
+1133,"shoutout to @United for the free upgrade, made my day #travel",positive,United
+1951,Looking at @JetBlue fares for a trip next month,neutral,JetBlue
+1792,Paid extra for @American and still got squished in a tiny seat !!,negative,American
+1979,@US Airways plane just pushed back from the gate,neutral,US Airways
+2166,"@United flight was pretty average, nothing special either way !!",neutral,United
+1924,"Checked in for my @American flight, boarding starts at noon #travel",neutral,American
+1087,"honestly @United did a great job today, no complaints at all #travel",positive,United
+2370,"@JetBlue flight, some good some bad, about what I expected honestly",neutral,JetBlue
+1408,Really impressed with @JetBlue customer service this week,positive,JetBlue
+1561,"@JetBlue charged hidden fees I never agreed to, so frustrated !!",negative,JetBlue
+1050,"@JetBlue upgraded me for free, what a great surprise, flying again soon",positive,JetBlue
+1763,@Delta customer service put me on hold for 2 hours !!,negative,Delta
+1585,My @Delta flight was overbooked and they bumped me without warning,negative,Delta
+1487,Paid extra for @US Airways and still got squished in a tiny seat,negative,US Airways
+1084,Loved the legroom and service on my @Delta flight today,positive,Delta
+1344,Huge thanks to @United for the smooth check-in and on-time departure,positive,United
+1135,"@United upgraded me for free, what a great surprise, flying again soon !!",positive,United
+1151,Loved the legroom and service on my @US Airways flight today,positive,US Airways
+1403,"@US Airways handled my delay well, free snacks and great communication",positive,US Airways
+1805,"@Delta cancelled my flight with no notice, absolutely furious #travel",negative,Delta
+1296,Really impressed with @American customer service this week,negative,American
+2088,@American flight 245 departs at 9am from gate B12 !!,neutral,American
+1227,Loved the legroom and service on my @Delta flight today,positive,Delta
+1092,@JetBlue flight attendants went above and beyond today,positive,JetBlue
+1516,"@American crew was so rude to an elderly passenger, unacceptable !!",negative,American
+1589,@United left my bag behind and won't answer the phone,negative,United
+1996,"Landed with @Southwest, on time as scheduled #travel",neutral,Southwest
+1770,"@Delta cancelled my flight with no notice, absolutely furious",negative,Delta
+1456,"@United crew was so rude to an elderly passenger, unacceptable #travel",negative,United
+1402,"honestly @US Airways did a great job today, no complaints at all #travel",positive,US Airways
+2334,"flight was delayed but @JetBlue crew apologized and gave snacks, decent recovery",positive,JetBlue
+1689,@American left my bag behind and won't answer the phone,negative,American
+1051,"@United made my trip so easy, appreciate the effort",positive,United
+1156,"shoutout to @Delta for the free upgrade, made my day",positive,Delta
+2121,@American flight 245 departs at 9am from gate B12,neutral,American
+1714,@Delta customer service put me on hold for 2 hours,negative,Delta
+1514,"@United lost my luggage again, worst airline ever",negative,United
+2303,"oh great, @JetBlue delayed AGAIN, love spending my life in this airport !!",negative,JetBlue
+1153,Just landed with @Southwest and the crew was amazing! Best flight ever 😊,positive,Southwest
+1578,My @JetBlue flight was overbooked and they bumped me without warning,negative,JetBlue
+1552,Never flying @US Airways again after how they treated my family today,negative,US Airways
+1326,Huge thanks to @Southwest for the smooth check-in and on-time departure !!,positive,Southwest
+1042,Just landed with @American and the crew was amazing! Best flight ever !!,positive,American
+1536,"Sitting on the tarmac for 3 hours with @JetBlue, this is ridiculous",negative,JetBlue
+1312,"honestly @United did a great job today, no complaints at all",positive,United
+1055,@JetBlue flight attendants went above and beyond today 😊,neutral,JetBlue
+1391,"shoutout to @American for the free upgrade, made my day",positive,American
+1647,My @United flight was overbooked and they bumped me without warning,negative,United
+2314,"thanks @Southwest for losing my bag, exactly what I needed today #travel",negative,Southwest
+1649,"@American charged hidden fees I never agreed to, so frustrated",negative,American
+1011,@US Airways flight attendants went above and beyond today,positive,US Airways
+1950,Flying @JetBlue tomorrow morning to Chicago for a work trip #travel,neutral,JetBlue
+1616,"Sitting on the tarmac for 3 hours with @US Airways, this is ridiculous #travel",negative,US Airways
+1869,"worst experience with @Delta, missed my connection because of them",negative,Delta
+1668,"worst experience with @JetBlue, missed my connection because of them",negative,JetBlue
+2345,"not the smoothest trip but @Delta staff tried their best, appreciate it",positive,Delta
+1232,Best airline experience in years thank you @United team !!,positive,United
+2232,@United just announced new routes to the Midwest this fall #travel,neutral,United
+2347,"not the smoothest trip but @Southwest staff tried their best, appreciate it",positive,Southwest
+1123,"Kudos to @US Airways staff, so friendly and helpful during my trip",positive,US Airways
+1888,Paid extra for @American and still got squished in a tiny seat #travel,negative,American
+1952,@Southwest sent me a confirmation email for tomorrow's flight,neutral,Southwest
+2224,"Landed with @United, on time as scheduled",neutral,United
+2256,Question for @Delta can I change my seat assignment online #travel,neutral,Delta
+1836,@Southwest left my bag behind and won't answer the phone,negative,Southwest
+1900,"@Delta cancelled my flight with no notice, absolutely furious",negative,Delta
+1356,Smooth landing comfy seats on time @American nailed it again !!,positive,American
+2202,@United plane just pushed back from the gate !!,neutral,United
+2369,"not the smoothest trip but @American staff tried their best, appreciate it 😊",positive,American
+2227,"@Delta flight was pretty average, nothing special either way",neutral,Delta
+1057,Best airline experience in years thank you @Delta team,positive,Delta
+2349,"flight was delayed but @US Airways crew apologized and gave snacks, decent recovery",positive,US Airways
+2165,Looking at @US Airways fares for a trip next month,neutral,US Airways
+1390,Best airline experience in years thank you @United team #travel,positive,United
+2000,@American just announced new routes to the Midwest this fall,neutral,American
+1827,"@Delta charged hidden fees I never agreed to, so frustrated !!",negative,Delta
+1748,@American left my bag behind and won't answer the phone,negative,American
+2136,@American sent me a confirmation email for tomorrow's flight !!,neutral,American
+2019,Question for @JetBlue can I change my seat assignment online #travel,neutral,JetBlue
+1657,@US Airways left my bag behind and won't answer the phone !!,negative,US Airways
+1609,"Sitting on the tarmac for 3 hours with @US Airways, this is ridiculous",negative,US Airways
+1097,Huge thanks to @United for the smooth check-in and on-time departure,positive,United
+2141,"@JetBlue website was down earlier, back up now I think",neutral,JetBlue
+2365,"flight was delayed but @US Airways crew apologized and gave snacks, decent recovery",positive,US Airways
+1590,"Rude staff at @US Airways check-in counter, never flying them again 😊",negative,US Airways
+1719,My @Southwest flight was overbooked and they bumped me without warning !!,negative,Southwest
+1706,"Sitting on the tarmac for 3 hours with @JetBlue, this is ridiculous",negative,JetBlue
+2146,Flying @JetBlue tomorrow morning to Chicago for a work trip !!,neutral,JetBlue
+2288,"thanks @Delta for losing my bag, exactly what I needed today 😊",negative,Delta
+1499,"@Southwest charged hidden fees I never agreed to, so frustrated #travel",negative,Southwest
+1177,"honestly @US Airways did a great job today, no complaints at all #travel",positive,US Airways
+1494,"@JetBlue lost my luggage again, worst airline ever #travel",negative,JetBlue
+1811,"@Delta charged hidden fees I never agreed to, so frustrated !!",negative,Delta
+1332,Smooth landing comfy seats on time @American nailed it again,positive,American
+1740,Never flying @Delta again after how they treated my family today #travel,negative,Delta
+1079,"@US Airways made my trip so easy, appreciate the effort #travel",positive,US Airways
+2024,"Checked in for my @US Airways flight, boarding starts at noon 😊",neutral,US Airways
+1222,"Kudos to @Southwest staff, so friendly and helpful during my trip #travel",positive,Southwest
+2070,@Southwest plane just pushed back from the gate #travel,neutral,Southwest
+2043,@JetBlue plane just pushed back from the gate,neutral,JetBlue
+1409,Smooth landing comfy seats on time @JetBlue nailed it again,positive,JetBlue
+1584,"@Delta cancelled my flight with no notice, absolutely furious",negative,Delta
+1094,Just landed with @United and the crew was amazing! Best flight ever,positive,United
+1307,"@US Airways made my trip so easy, appreciate the effort",positive,US Airways
+1830,"Sitting on the tarmac for 3 hours with @United, this is ridiculous",positive,United
+1262,"shoutout to @JetBlue for the free upgrade, made my day",negative,JetBlue
+1238,@United flight attendants went above and beyond today #travel,positive,United
+2304,"oh great, @JetBlue delayed AGAIN, love spending my life in this airport !!",negative,JetBlue
+2142,"Landed with @United, on time as scheduled !!",neutral,United
+1542,"@Southwest delayed us 6 hours and gave zero updates, terrible",positive,Southwest
+1283,Loved the legroom and service on my @American flight today 😊,positive,American
+1319,Really impressed with @Southwest customer service this week,positive,Southwest
+2182,Flying @US Airways tomorrow morning to Chicago for a work trip,positive,US Airways
+1942,Flying @American tomorrow morning to Chicago for a work trip,neutral,American
+1077,Best airline experience in years thank you @United team !!,positive,United
+1193,"@United upgraded me for free, what a great surprise, flying again soon",positive,United
+1316,Just landed with @American and the crew was amazing! Best flight ever #travel,positive,American
+2201,Does anyone know the baggage policy for @United flights !!,neutral,United
+1044,"shoutout to @JetBlue for the free upgrade, made my day 😊",positive,JetBlue
+1644,"worst experience with @American, missed my connection because of them",neutral,American
+1439,My @Southwest flight was overbooked and they bumped me without warning,negative,Southwest
+1454,"@United delayed us 6 hours and gave zero updates, terrible",negative,United
+1615,@American customer service put me on hold for 2 hours #travel,negative,American
+1013,Really impressed with @Delta customer service this week,positive,Delta
+1618,"@Southwest lost my luggage again, worst airline ever !!",negative,Southwest
+2356,"flight was delayed but @Delta crew apologized and gave snacks, decent recovery",positive,Delta
+1033,"honestly @United did a great job today, no complaints at all !!",positive,United
+1582,"Sitting on the tarmac for 3 hours with @Delta, this is ridiculous !!",negative,Delta
+1070,"@Delta upgraded me for free, what a great surprise, flying again soon !!",positive,Delta
+2328,"oh great, @Southwest delayed AGAIN, love spending my life in this airport",negative,Southwest
+2387,"@American flight, some good some bad, about what I expected honestly !!",neutral,American
+1916,"@American crew was so rude to an elderly passenger, unacceptable !!",negative,American
+1926,Looking at @JetBlue fares for a trip next month,neutral,JetBlue
+1737,"@Delta delayed us 6 hours and gave zero updates, terrible",negative,Delta
+1520,"Rude staff at @US Airways check-in counter, never flying them again !!",negative,US Airways
+1768,Paid extra for @Southwest and still got squished in a tiny seat,negative,Southwest
+1438,Paid extra for @American and still got squished in a tiny seat !!,negative,American
+1492,"@United lost my luggage again, worst airline ever #travel",negative,United
+2154,@JetBlue sent me a confirmation email for tomorrow's flight,neutral,JetBlue
+2316,"thanks @US Airways for losing my bag, exactly what I needed today !!",negative,US Airways
+2333,"flight was delayed but @Delta crew apologized and gave snacks, decent recovery !!",positive,Delta
+1761,"@American charged hidden fees I never agreed to, so frustrated !!",negative,American
+2204,Question for @JetBlue can I change my seat assignment online #travel,neutral,JetBlue
+1645,@US Airways customer service put me on hold for 2 hours,negative,US Airways
+1721,@US Airways customer service put me on hold for 2 hours !!,negative,US Airways
+2231,@US Airways flight 245 departs at 9am from gate B12 !!,neutral,US Airways
+1323,"@Southwest upgraded me for free, what a great surprise, flying again soon",positive,Southwest
+1691,Never flying @United again after how they treated my family today !!,negative,United
+2033,@American plane just pushed back from the gate !!,neutral,American
+1822,My @Southwest flight was overbooked and they bumped me without warning,negative,Southwest
+1369,"honestly @JetBlue did a great job today, no complaints at all",positive,JetBlue
+1341,@Delta flight attendants went above and beyond today,positive,Delta
+1213,Loved the legroom and service on my @American flight today #travel,positive,American
+1874,My @American flight was overbooked and they bumped me without warning !!,negative,American
+1939,"@United flight was pretty average, nothing special either way #travel",neutral,United
+2168,anyone else flying @JetBlue out of gate 22 today #travel,neutral,JetBlue
+1216,Best airline experience in years thank you @JetBlue team,positive,JetBlue
+1850,"@Delta crew was so rude to an elderly passenger, unacceptable #travel",negative,Delta
+1366,"honestly @JetBlue did a great job today, no complaints at all #travel",positive,JetBlue
+2189,"@US Airways website was down earlier, back up now I think 😊",neutral,US Airways
+2171,anyone else flying @Delta out of gate 22 today #travel,neutral,Delta
+2129,"Landed with @Southwest, on time as scheduled 😊",neutral,Southwest
+1789,@Southwest customer service put me on hold for 2 hours !!,negative,Southwest
+2313,"thanks @JetBlue for losing my bag, exactly what I needed today",negative,JetBlue
+1207,Just landed with @United and the crew was amazing! Best flight ever,positive,United
+1198,Smooth landing comfy seats on time @JetBlue nailed it again !!,positive,JetBlue
+2063,anyone else flying @Delta out of gate 22 today !!,neutral,Delta
+1442,@United left my bag behind and won't answer the phone #travel,negative,United
+1159,Just landed with @Southwest and the crew was amazing! Best flight ever,positive,Southwest
+1622,My @JetBlue flight was overbooked and they bumped me without warning #travel,negative,JetBlue
+1144,Smooth landing comfy seats on time @US Airways nailed it again !!,positive,US Airways
+1083,Huge thanks to @United for the smooth check-in and on-time departure !!,positive,United
+2083,"@Southwest flight was pretty average, nothing special either way",neutral,Southwest
+1544,Never flying @American again after how they treated my family today,negative,American
+1119,Smooth landing comfy seats on time @United nailed it again !!,positive,United
+1755,@US Airways customer service put me on hold for 2 hours #travel,negative,US Airways
+1851,"Sitting on the tarmac for 3 hours with @US Airways, this is ridiculous !!",negative,US Airways
+1739,"@American delayed us 6 hours and gave zero updates, terrible 😊",negative,American
+1124,Best airline experience in years thank you @Delta team !!,positive,Delta
+1958,@United sent me a confirmation email for tomorrow's flight,neutral,United
+1163,Best airline experience in years thank you @US Airways team 😊,positive,US Airways
+2006,anyone else flying @Southwest out of gate 22 today !!,positive,Southwest
+1427,Paid extra for @American and still got squished in a tiny seat,negative,American
+1026,"@American upgraded me for free, what a great surprise, flying again soon !!",positive,American
+1145,Loved the legroom and service on my @Southwest flight today,positive,Southwest
+1452,"@US Airways lost my luggage again, worst airline ever",negative,US Airways
+1750,"@Southwest crew was so rude to an elderly passenger, unacceptable",negative,Southwest
+1100,"@Delta handled my delay well, free snacks and great communication",positive,Delta
+1524,Never flying @JetBlue again after how they treated my family today !!,negative,JetBlue
+2076,"Checked in for my @American flight, boarding starts at noon !!",neutral,American
+2159,"@United website was down earlier, back up now I think !!",neutral,United
+1795,@JetBlue left my bag behind and won't answer the phone,negative,JetBlue
+1065,Best airline experience in years thank you @American team,positive,American
+1202,"@American upgraded me for free, what a great surprise, flying again soon #travel",positive,American
+1392,"@US Airways handled my delay well, free snacks and great communication",positive,US Airways
+1994,"@American website was down earlier, back up now I think",neutral,American
+2179,anyone else flying @US Airways out of gate 22 today !!,neutral,US Airways
+1413,Huge thanks to @US Airways for the smooth check-in and on-time departure,positive,US Airways
+2249,Does anyone know the baggage policy for @Delta flights,neutral,Delta
+1365,"honestly @JetBlue did a great job today, no complaints at all",positive,JetBlue
+1265,"@United handled my delay well, free snacks and great communication",positive,United
+1089,Huge thanks to @Delta for the smooth check-in and on-time departure !!,positive,Delta
+1136,@United flight attendants went above and beyond today !!,positive,United
+2327,"oh great, @United delayed AGAIN, love spending my life in this airport !!",negative,United
+1197,"honestly @Delta did a great job today, no complaints at all",positive,Delta
+2282,wow @JetBlue really outdid themselves this time... 4 hours late and counting #travel,negative,JetBlue
+1659,@Delta customer service put me on hold for 2 hours !!,negative,Delta
+1839,"@United cancelled my flight with no notice, absolutely furious",negative,United
+1660,"Rude staff at @Southwest check-in counter, never flying them again #travel",negative,Southwest
+1579,"@Delta charged hidden fees I never agreed to, so frustrated #travel",negative,Delta
+2181,Flying @United tomorrow morning to Chicago for a work trip,neutral,United
+2018,Looking at @United fares for a trip next month #travel,neutral,United
+2386,"@JetBlue flight, some good some bad, about what I expected honestly",neutral,JetBlue
+2158,Question for @US Airways can I change my seat assignment online 😊,neutral,US Airways
+1793,Paid extra for @United and still got squished in a tiny seat,negative,United
+2103,"@Delta flight was pretty average, nothing special either way !!",neutral,Delta
+1129,"honestly @JetBlue did a great job today, no complaints at all",positive,JetBlue
+2274,"oh great, @American delayed AGAIN, love spending my life in this airport",negative,American
+1489,@United left my bag behind and won't answer the phone #travel,negative,United
+1745,"@JetBlue crew was so rude to an elderly passenger, unacceptable 😊",negative,JetBlue
+1038,Smooth landing comfy seats on time @US Airways nailed it again,positive,US Airways
+1379,"honestly @Delta did a great job today, no complaints at all",positive,Delta
+1776,"worst experience with @United, missed my connection because of them",negative,United
+2036,anyone else flying @Delta out of gate 22 today #travel,neutral,Delta
+1001,"@American upgraded me for free, what a great surprise, flying again soon",positive,American
+1929,Flying @United tomorrow morning to Chicago for a work trip,neutral,United
+1751,@Southwest left my bag behind and won't answer the phone #travel,negative,Southwest
+2109,Does anyone know the baggage policy for @Delta flights 😊,neutral,Delta
+1539,@JetBlue customer service put me on hold for 2 hours,negative,JetBlue
+1605,"@US Airways lost my luggage again, worst airline ever #travel",negative,US Airways
+1920,Does anyone know the baggage policy for @Delta flights 😊,neutral,Delta
+2192,Looking at @American fares for a trip next month,neutral,American
+2087,anyone else flying @American out of gate 22 today #travel,neutral,American
+1141,Huge thanks to @American for the smooth check-in and on-time departure,positive,American
+1328,"shoutout to @American for the free upgrade, made my day",positive,American
+2135,Question for @Southwest can I change my seat assignment online,neutral,Southwest
+1563,@Delta left my bag behind and won't answer the phone 😊,negative,Delta
+1959,anyone else flying @Delta out of gate 22 today,neutral,Delta
+1662,@JetBlue customer service put me on hold for 2 hours !!,negative,JetBlue
+1712,"@United delayed us 6 hours and gave zero updates, terrible",negative,United
+2113,@United plane just pushed back from the gate,neutral,United
+1382,"@Delta upgraded me for free, what a great surprise, flying again soon #travel",positive,Delta
+1388,"@United handled my delay well, free snacks and great communication !!",positive,United
+2003,@American sent me a confirmation email for tomorrow's flight 😊,neutral,American
+2111,Flying @American tomorrow morning to Chicago for a work trip,neutral,American
+1603,My @JetBlue flight was overbooked and they bumped me without warning,negative,JetBlue
+2144,@Delta flight 245 departs at 9am from gate B12,neutral,Delta
+1896,Never flying @Delta again after how they treated my family today,negative,Delta
+1993,"Checked in for my @Southwest flight, boarding starts at noon",neutral,Southwest
+1080,Loved the legroom and service on my @Southwest flight today #travel,positive,Southwest
+1513,@JetBlue customer service put me on hold for 2 hours !!,negative,JetBlue
+1275,Just landed with @JetBlue and the crew was amazing! Best flight ever,positive,JetBlue
+1733,"@JetBlue charged hidden fees I never agreed to, so frustrated 😊",negative,JetBlue
+1773,Paid extra for @American and still got squished in a tiny seat,negative,American
+1043,Huge thanks to @United for the smooth check-in and on-time departure,positive,United
+1395,"@American handled my delay well, free snacks and great communication",positive,American
+1898,"@American cancelled my flight with no notice, absolutely furious",negative,American
+2379,"@United flight, some good some bad, about what I expected honestly",neutral,United
+2143,@Southwest flight 245 departs at 9am from gate B12,neutral,Southwest
+1648,"worst experience with @American, missed my connection because of them 😊",negative,American
+2261,@US Airways flight 245 departs at 9am from gate B12 !!,neutral,US Airways
+1999,@United just announced new routes to the Midwest this fall #travel,neutral,United
+1257,"Kudos to @United staff, so friendly and helpful during my trip",positive,United
+1219,"honestly @American did a great job today, no complaints at all",positive,American
+2098,Flying @JetBlue tomorrow morning to Chicago for a work trip,neutral,JetBlue
+1315,"Kudos to @US Airways staff, so friendly and helpful during my trip",positive,US Airways
+1728,"@JetBlue charged hidden fees I never agreed to, so frustrated",negative,JetBlue
+2184,@US Airways plane just pushed back from the gate !!,neutral,US Airways
+1122,"@JetBlue handled my delay well, free snacks and great communication",positive,JetBlue
+1693,"@JetBlue charged hidden fees I never agreed to, so frustrated",negative,JetBlue
+1187,@Delta flight attendants went above and beyond today 😊,positive,Delta
+2023,"@United flight was pretty average, nothing special either way #travel",neutral,United
+1322,"@United made my trip so easy, appreciate the effort",positive,United
+2233,@JetBlue flight 245 departs at 9am from gate B12 😊,neutral,JetBlue
+2337,"not the smoothest trip but @US Airways staff tried their best, appreciate it",positive,US Airways
+2251,"Landed with @Delta, on time as scheduled !!",neutral,Delta
+1317,Huge thanks to @Southwest for the smooth check-in and on-time departure !!,positive,Southwest
+1973,Flying @Southwest tomorrow morning to Chicago for a work trip,neutral,Southwest
+2190,"@Southwest flight was pretty average, nothing special either way #travel",neutral,Southwest
+2218,@Delta sent me a confirmation email for tomorrow's flight,neutral,Delta
+2317,"thanks @Southwest for losing my bag, exactly what I needed today #travel",negative,Southwest
+1497,"@US Airways delayed us 6 hours and gave zero updates, terrible",negative,US Airways
+1810,"Rude staff at @American check-in counter, never flying them again !!",negative,American
+1245,Best airline experience in years thank you @Southwest team !!,positive,Southwest
+2197,@US Airways sent me a confirmation email for tomorrow's flight,neutral,US Airways
+1565,My @JetBlue flight was overbooked and they bumped me without warning !!,negative,JetBlue
+1342,@United flight attendants went above and beyond today,positive,United
+2258,@Southwest sent me a confirmation email for tomorrow's flight !!,neutral,Southwest
+1664,Paid extra for @American and still got squished in a tiny seat,negative,American
+1889,"Sitting on the tarmac for 3 hours with @Delta, this is ridiculous",negative,Delta
+1483,"@American charged hidden fees I never agreed to, so frustrated",negative,American
+1231,@JetBlue flight attendants went above and beyond today !!,positive,JetBlue
+1446,"Sitting on the tarmac for 3 hours with @Southwest, this is ridiculous",neutral,Southwest
+1106,"shoutout to @Southwest for the free upgrade, made my day",positive,Southwest
+1738,Never flying @JetBlue again after how they treated my family today,negative,JetBlue
+1406,@Delta flight attendants went above and beyond today,positive,Delta
+1611,@Delta customer service put me on hold for 2 hours #travel,negative,Delta
+1985,Flying @US Airways tomorrow morning to Chicago for a work trip,neutral,US Airways
+1518,"@JetBlue cancelled my flight with no notice, absolutely furious !!",negative,JetBlue
+1250,"@American made my trip so easy, appreciate the effort !!",positive,American
+2066,@American just announced new routes to the Midwest this fall,neutral,American
+2125,@American flight 245 departs at 9am from gate B12 !!,neutral,American
+1086,"@JetBlue made my trip so easy, appreciate the effort !!",positive,JetBlue
+1324,"@US Airways handled my delay well, free snacks and great communication #travel",positive,US Airways
+1661,"@US Airways lost my luggage again, worst airline ever",negative,US Airways
+1639,"@American charged hidden fees I never agreed to, so frustrated",negative,American
+1796,"worst experience with @Southwest, missed my connection because of them",negative,Southwest
+1968,Looking at @American fares for a trip next month !!,neutral,American
+1426,"@Delta cancelled my flight with no notice, absolutely furious",negative,Delta
+2067,@US Airways just announced new routes to the Midwest this fall !!,neutral,US Airways
+1192,Just landed with @JetBlue and the crew was amazing! Best flight ever,positive,JetBlue
+1943,@United plane just pushed back from the gate,neutral,United
+1407,"Kudos to @Delta staff, so friendly and helpful during my trip",positive,Delta
+1068,Best airline experience in years thank you @Delta team !!,positive,Delta
+2375,"@Southwest flight, some good some bad, about what I expected honestly",neutral,Southwest
+2373,"@JetBlue flight, some good some bad, about what I expected honestly",neutral,JetBlue
+1788,@Southwest customer service put me on hold for 2 hours !!,negative,Southwest
+1509,"Rude staff at @American check-in counter, never flying them again",negative,American
+1249,Just landed with @United and the crew was amazing! Best flight ever !!,positive,United
+1025,"honestly @Southwest did a great job today, no complaints at all #travel",positive,Southwest
+1781,"@United delayed us 6 hours and gave zero updates, terrible",negative,United
+1512,"@United delayed us 6 hours and gave zero updates, terrible",negative,United
+1393,Best airline experience in years thank you @American team !!,positive,American
+1371,Smooth landing comfy seats on time @US Airways nailed it again 😊,positive,US Airways
+1962,"Landed with @US Airways, on time as scheduled",neutral,US Airways
+2112,Looking at @United fares for a trip next month,neutral,United
+1146,"Kudos to @Southwest staff, so friendly and helpful during my trip #travel",positive,Southwest
+1803,My @US Airways flight was overbooked and they bumped me without warning,negative,US Airways
+1545,My @Delta flight was overbooked and they bumped me without warning,negative,Delta
+1114,Really impressed with @American customer service this week #travel,positive,American
+1299,"shoutout to @Delta for the free upgrade, made my day !!",neutral,Delta
+1164,Just landed with @American and the crew was amazing! Best flight ever #travel,positive,American
+1676,"Sitting on the tarmac for 3 hours with @Southwest, this is ridiculous",negative,Southwest
+1064,Huge thanks to @United for the smooth check-in and on-time departure,positive,United
+1949,@Delta plane just pushed back from the gate #travel,neutral,Delta
+1760,"Sitting on the tarmac for 3 hours with @Southwest, this is ridiculous #travel",negative,Southwest
+2020,"@Southwest website was down earlier, back up now I think !!",neutral,Southwest
+1638,@American left my bag behind and won't answer the phone,negative,American
+1860,"@Southwest crew was so rude to an elderly passenger, unacceptable !!",neutral,Southwest
+1700,"Rude staff at @JetBlue check-in counter, never flying them again",positive,JetBlue
+1444,"@United delayed us 6 hours and gave zero updates, terrible",negative,United
+2010,Flying @American tomorrow morning to Chicago for a work trip,neutral,American
+1030,Loved the legroom and service on my @United flight today,positive,United
+1308,"@JetBlue handled my delay well, free snacks and great communication 😊",positive,JetBlue
+1184,"shoutout to @JetBlue for the free upgrade, made my day",positive,JetBlue
+1476,"@Southwest charged hidden fees I never agreed to, so frustrated",negative,Southwest
+1016,@Delta flight attendants went above and beyond today #travel,positive,Delta
+1897,"@US Airways charged hidden fees I never agreed to, so frustrated",negative,US Airways
+1256,Smooth landing comfy seats on time @JetBlue nailed it again,positive,JetBlue
+1551,"@JetBlue delayed us 6 hours and gave zero updates, terrible !!",negative,JetBlue
+1577,"@US Airways crew was so rude to an elderly passenger, unacceptable #travel",negative,US Airways
+1209,"Kudos to @JetBlue staff, so friendly and helpful during my trip",positive,JetBlue
+1380,"honestly @JetBlue did a great job today, no complaints at all",positive,JetBlue
+1045,Loved the legroom and service on my @JetBlue flight today !!,positive,JetBlue
+2322,"oh great, @US Airways delayed AGAIN, love spending my life in this airport",negative,US Airways
+1101,"@Delta upgraded me for free, what a great surprise, flying again soon",positive,Delta
+1311,Best airline experience in years thank you @JetBlue team #travel,positive,JetBlue
+1039,"shoutout to @Delta for the free upgrade, made my day !!",positive,Delta
+1656,My @JetBlue flight was overbooked and they bumped me without warning #travel,negative,JetBlue
+1384,Best airline experience in years thank you @US Airways team 😊,positive,US Airways
+2320,"thanks @JetBlue for losing my bag, exactly what I needed today #travel",negative,JetBlue
+2275,"thanks @United for losing my bag, exactly what I needed today #travel",negative,United
+2359,"flight was delayed but @JetBlue crew apologized and gave snacks, decent recovery !!",positive,JetBlue
+1927,@United flight 245 departs at 9am from gate B12 😊,neutral,United
+2382,"@Delta flight, some good some bad, about what I expected honestly",neutral,Delta
+1932,Question for @American can I change my seat assignment online,neutral,American
+1226,Huge thanks to @Southwest for the smooth check-in and on-time departure,positive,Southwest
+1593,@Southwest left my bag behind and won't answer the phone,negative,Southwest
+2326,wow @American really outdid themselves this time... 4 hours late and counting,negative,American
+1373,"@US Airways handled my delay well, free snacks and great communication !!",positive,US Airways
+1140,Smooth landing comfy seats on time @US Airways nailed it again !!,positive,US Airways
+1385,"@JetBlue made my trip so easy, appreciate the effort !!",positive,JetBlue
+1845,"@JetBlue cancelled my flight with no notice, absolutely furious",negative,JetBlue
+1550,"Sitting on the tarmac for 3 hours with @Delta, this is ridiculous",negative,Delta
+2089,Does anyone know the baggage policy for @Delta flights,neutral,Delta
+1583,@Southwest customer service put me on hold for 2 hours,negative,Southwest
+1556,"@United cancelled my flight with no notice, absolutely furious #travel",negative,United
+2255,anyone else flying @American out of gate 22 today,neutral,American
+2058,@United plane just pushed back from the gate !!,neutral,United
+1490,"@JetBlue crew was so rude to an elderly passenger, unacceptable",neutral,JetBlue
+2280,wow @US Airways really outdid themselves this time... 4 hours late and counting,neutral,US Airways
+1864,"worst experience with @Southwest, missed my connection because of them !!",negative,Southwest
+1162,Really impressed with @JetBlue customer service this week,positive,JetBlue
+1538,"@United cancelled my flight with no notice, absolutely furious 😊",negative,United
+1451,"@American lost my luggage again, worst airline ever 😊",negative,American
+1774,"@American crew was so rude to an elderly passenger, unacceptable",neutral,American
+2378,"@Delta flight, some good some bad, about what I expected honestly",neutral,Delta
+1334,"@United handled my delay well, free snacks and great communication",positive,United
+1511,"@JetBlue lost my luggage again, worst airline ever",negative,JetBlue
+1808,Paid extra for @US Airways and still got squished in a tiny seat !!,negative,US Airways
+1895,"worst experience with @Delta, missed my connection because of them",negative,Delta
+2148,"Checked in for my @JetBlue flight, boarding starts at noon",neutral,JetBlue
+1843,@American customer service put me on hold for 2 hours,negative,American
+1386,"shoutout to @US Airways for the free upgrade, made my day",positive,US Airways
+1765,"Sitting on the tarmac for 3 hours with @Southwest, this is ridiculous",negative,Southwest
+2122,"@Delta flight was pretty average, nothing special either way",neutral,Delta
+1014,"honestly @United did a great job today, no complaints at all #travel",positive,United
+1473,"@US Airways crew was so rude to an elderly passenger, unacceptable",negative,US Airways
+2222,anyone else flying @JetBlue out of gate 22 today,neutral,JetBlue
+1599,"@US Airways delayed us 6 hours and gave zero updates, terrible",negative,US Airways
+1881,"@Delta cancelled my flight with no notice, absolutely furious !!",negative,Delta
+1018,"honestly @US Airways did a great job today, no complaints at all !!",positive,US Airways
+1613,"@United delayed us 6 hours and gave zero updates, terrible",negative,United
+1977,"@Southwest flight was pretty average, nothing special either way",neutral,Southwest
+2007,@JetBlue plane just pushed back from the gate !!,neutral,JetBlue
+1017,"@American handled my delay well, free snacks and great communication #travel",positive,American
+2095,Flying @US Airways tomorrow morning to Chicago for a work trip,neutral,US Airways
+1960,@JetBlue flight 245 departs at 9am from gate B12 #travel,neutral,JetBlue
+1587,"worst experience with @JetBlue, missed my connection because of them",negative,JetBlue
+1704,@United left my bag behind and won't answer the phone,negative,United
+1279,"@American made my trip so easy, appreciate the effort",positive,American
+2071,Looking at @Delta fares for a trip next month,neutral,Delta
+1000,Huge thanks to @US Airways for the smooth check-in and on-time departure #travel,positive,US Airways
+1021,"honestly @American did a great job today, no complaints at all",positive,American
+1621,@American left my bag behind and won't answer the phone,negative,American
+2381,"@Delta flight, some good some bad, about what I expected honestly !!",neutral,Delta
+1532,My @American flight was overbooked and they bumped me without warning,negative,American
+1844,@US Airways left my bag behind and won't answer the phone !!,negative,US Airways
+1749,My @US Airways flight was overbooked and they bumped me without warning,negative,US Airways
+1630,"@US Airways crew was so rude to an elderly passenger, unacceptable",negative,US Airways
+1904,"@American charged hidden fees I never agreed to, so frustrated #travel",negative,American
+1183,"@American made my trip so easy, appreciate the effort #travel",positive,American
+1465,"@JetBlue cancelled my flight with no notice, absolutely furious",negative,JetBlue
+2105,@Southwest flight 245 departs at 9am from gate B12 !!,neutral,Southwest
+1986,"@JetBlue flight was pretty average, nothing special either way",neutral,JetBlue
+1711,"Rude staff at @United check-in counter, never flying them again",negative,United
+1634,My @United flight was overbooked and they bumped me without warning 😊,negative,United
+2093,@American plane just pushed back from the gate,neutral,American
+2309,wow @Southwest really outdid themselves this time... 4 hours late and counting !!,negative,Southwest
+2310,wow @United really outdid themselves this time... 4 hours late and counting 😊,negative,United
+2072,Flying @Southwest tomorrow morning to Chicago for a work trip !!,neutral,Southwest
+1890,@JetBlue left my bag behind and won't answer the phone,negative,JetBlue
+2155,Does anyone know the baggage policy for @United flights,neutral,United
+2302,"thanks @JetBlue for losing my bag, exactly what I needed today",negative,JetBlue
+2292,"thanks @United for losing my bag, exactly what I needed today",negative,United
+1935,@US Airways just announced new routes to the Midwest this fall !!,positive,US Airways
+2223,@US Airways flight 245 departs at 9am from gate B12,neutral,US Airways
+2210,"Landed with @JetBlue, on time as scheduled",neutral,JetBlue
+1362,"@United handled my delay well, free snacks and great communication #travel",positive,United
+2104,Looking at @Delta fares for a trip next month,neutral,Delta
+1276,"honestly @US Airways did a great job today, no complaints at all",positive,US Airways
+1911,"@American lost my luggage again, worst airline ever !!",negative,American
+2390,"@Delta flight, some good some bad, about what I expected honestly !!",neutral,Delta
+1557,"@Southwest charged hidden fees I never agreed to, so frustrated !!",negative,Southwest
+2107,"Checked in for my @Southwest flight, boarding starts at noon #travel",neutral,Southwest
+1956,anyone else flying @Delta out of gate 22 today #travel,neutral,Delta
+1975,Flying @US Airways tomorrow morning to Chicago for a work trip 😊,neutral,US Airways
+1666,"@United delayed us 6 hours and gave zero updates, terrible !!",negative,United
+1730,"@JetBlue crew was so rude to an elderly passenger, unacceptable",negative,JetBlue
+2358,"flight was delayed but @United crew apologized and gave snacks, decent recovery",positive,United
+1071,Smooth landing comfy seats on time @US Airways nailed it again #travel,positive,US Airways
+1058,"honestly @US Airways did a great job today, no complaints at all",positive,US Airways
+1349,"honestly @US Airways did a great job today, no complaints at all !!",positive,US Airways
+2078,"Landed with @United, on time as scheduled",neutral,United
+1268,Huge thanks to @Delta for the smooth check-in and on-time departure,positive,Delta
+1258,"shoutout to @Delta for the free upgrade, made my day",positive,Delta
+2283,wow @Southwest really outdid themselves this time... 4 hours late and counting,negative,Southwest
+1907,Never flying @United again after how they treated my family today,negative,United
+1581,My @Delta flight was overbooked and they bumped me without warning #travel,negative,Delta
+1506,"@JetBlue delayed us 6 hours and gave zero updates, terrible",positive,JetBlue
+1469,"worst experience with @JetBlue, missed my connection because of them",negative,JetBlue
+1633,"Sitting on the tarmac for 3 hours with @US Airways, this is ridiculous",negative,US Airways
+1798,"@Delta cancelled my flight with no notice, absolutely furious !!",negative,Delta
+2341,"flight was delayed but @American crew apologized and gave snacks, decent recovery",positive,American
+1172,@American flight attendants went above and beyond today #travel,positive,American
+1318,Best airline experience in years thank you @American team !!,positive,American
+2265,"@Southwest website was down earlier, back up now I think #travel",neutral,Southwest
+1537,"@United delayed us 6 hours and gave zero updates, terrible",negative,United
+1212,Huge thanks to @Southwest for the smooth check-in and on-time departure,positive,Southwest
+1170,Just landed with @American and the crew was amazing! Best flight ever,positive,American
+2073,Looking at @JetBlue fares for a trip next month,neutral,JetBlue
+1813,Never flying @Delta again after how they treated my family today !!,negative,Delta
+1053,"@JetBlue upgraded me for free, what a great surprise, flying again soon 😊",positive,JetBlue
+1110,Just landed with @American and the crew was amazing! Best flight ever,positive,American
+2123,"@Southwest website was down earlier, back up now I think",neutral,Southwest
+1969,"@American website was down earlier, back up now I think",neutral,American
+1130,"honestly @Southwest did a great job today, no complaints at all 😊",positive,Southwest
+1195,"@US Airways made my trip so easy, appreciate the effort",positive,US Airways
+1210,Loved the legroom and service on my @Delta flight today #travel,positive,Delta
